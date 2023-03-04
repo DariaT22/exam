@@ -1,0 +1,35 @@
+header {
+    padding: 40px 30px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+header a {
+    text-decoration: none ;
+    padding: 0 20px;
+    font-family: 'roboto';
+    font-size: 19px;
+    color: #274C5B;
+}
+header a:hover {
+    color: #D4D4D4;
+}
+.cart img {
+    width: 30%;
+}
+.cart {
+    padding:2px 5px;
+    border: 1px solid #D4D4D4;
+    border-radius: 33px ;
+    width: 159px;
+   position: relative;
+  
+}
+.cart span {
+    padding-left: 10px;
+    font-family: 'roboto';
+    color: #274C5B;
+    font-size: 17px;
+    position: absolute;
+    top: 20px;
+}

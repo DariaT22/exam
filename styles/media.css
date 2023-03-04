@@ -1,0 +1,4687 @@
+@media (min-width:2560px) {
+    .header .logo img {
+        width: 200%;
+    }
+    .nav a{
+        font-size: 40px;
+    }
+    .header .cart{
+        padding:20px 20px 15px 10px;
+        border: 1px solid #D4D4D4;
+        border-radius: 100px ;
+        width: 250px;
+       position: relative;
+       right: 30px;
+    }
+    .header .cart span {
+        font-size: 40px;
+        padding-top: 25px;
+        margin-left: 10px;
+    }
+    .header .cart img {
+        width: 45%;
+    }
+
+
+
+    .promo {
+        background-image: url(/images/bg-promo.svg);
+        background-repeat: no-repeat;
+        background-size: 100%;
+    }
+    .promo__text h1 {
+        font-size: 100px;
+        padding: 50px 0;
+    }
+    .promo__text h4 {
+        font-size: 65px;
+    }
+    button  {
+        width: 369px;
+        height: 120px;
+        font-size: 40px;
+        padding-right: 50px;
+    }
+    .promo__text img {
+        width: 20%;
+        left: 280px;
+        top: 25px;   
+    }
+
+
+
+    .about {
+        margin-bottom: 300px;
+    }
+    .about__pics img{
+        width: 1200px;
+    }
+    .about__left h4 {
+        font-size: 65px;
+    }
+    .about__left p {
+        font-size: 80px;
+    }
+    .about__right h4 {
+        font-size: 65px;
+    }
+    .about__right p {
+        font-size: 80px;
+    }
+    .about__text2 {
+        left: 1340px;
+    }
+    .icon1 img{
+        width: 30%;
+    }
+    .icon2 img{
+        width: 30%;
+    }
+    .aboutUs__pic img {
+        width: 180%;
+    }
+    .aboutUs__content {
+        width: 50%;
+        padding-left: 500px;
+    }
+    .aboutUs__content h4 {
+        font-size: 65px;
+    }
+    .aboutUs__content h2 {
+        font-size: 88px;
+    }
+    .aboutUs__content p {
+        font-size: 36px;
+    }
+    .icon1__text h5 {
+        font-size: 45px;
+    }
+    .aboutUs button {
+        width: 369px;
+        height: 120px;
+        font-size: 40px;
+        padding-right: 50px;
+    }
+    .aboutUs button>img  {
+        width: 20%;
+        left: 270px
+    }
+
+
+
+
+
+    .shop {
+        padding: 300px 30px;
+    }
+    .shop h5 {
+        font-size: 65px;
+    }
+    .shop h2 {
+        font-size: 88px;
+    }
+
+    .broccoli {
+        width: 773px;
+        height: 940px;
+    }
+    .broccoli>img {
+        width: 100%;
+    }
+    .broccoli p {
+        font-size: 35px;
+        border-radius: 8px;
+        padding: 30px 40px;
+    }
+    .broccoli h6 {
+        font-size: 44px;
+    }
+    .broccoli hr {
+        width: 687px;
+    }
+    .broccoli li:first-child {
+        font-size: 34px;
+    }
+    .broccoli li:last-child {
+        font-size: 36px;
+    }
+    .broccoli__text img {
+        width: 20%;
+        position: absolute;
+        left: 580px;
+        top: 920px;
+    }
+
+    .corn {
+        width: 773px;
+        height: 940px;
+    }
+    .corn >img {
+        width: 100%;
+    }
+    .corn  p {
+        font-size: 35px;
+        border-radius: 8px;
+        padding: 30px 40px;
+    }
+    .corn  h6 {
+        font-size: 44px;
+    }
+    .corn  hr {
+        width: 687px;
+    }
+    .corn  li:first-child {
+        font-size: 34px;
+    }
+    .corn  li:last-child {
+        font-size: 36px;
+    }
+    .corn__text img {
+        width: 20%;
+        position: absolute;
+        left: 580px;
+        top: 920px;
+    }
+
+
+    .pistachio {
+        width: 773px;
+        height: 940px;
+    }
+    .pistachio>img {
+        width: 100%;
+    }
+    .pistachio p {
+        font-size: 35px;
+        border-radius: 8px;
+        padding: 30px 40px;
+    }
+    .pistachio h6 {
+        font-size: 44px;
+    }
+    .pistachio hr {
+        width: 687px;
+    }
+    .pistachio li:first-child {
+        font-size: 34px;
+    }
+    .pistachio li:last-child {
+        font-size: 36px;
+    }
+    .pistachio__text img {
+        width: 20%;
+        position: absolute;
+        left: 580px;
+        top: 920px;
+    }
+
+
+    .tomato {
+        width: 773px;
+        height: 940px;
+    }
+    .tomato>img {
+        width: 100%;
+    }
+    .tomato p {
+        font-size: 35px;
+        border-radius: 8px;
+        padding: 30px 40px;
+    }
+    .tomato h6 {
+        font-size: 44px;
+    }
+    .tomato hr {
+        width: 687px;
+    }
+    .tomato li:first-child {
+        font-size: 34px;
+    }
+    .tomato li:last-child {
+        font-size: 36px;
+    }
+    .tomato__text img {
+        width: 20%;
+        position: absolute;
+        left: 580px;
+        top: 920px;
+    }
+
+
+    .almonds {
+        width: 773px;
+        height: 940px;
+    }
+    .almonds>img {
+        width: 100%;
+    }
+    .almonds p {
+        font-size: 35px;
+        border-radius: 8px;
+        padding: 30px 40px;
+    }
+    .almonds h6 {
+        font-size: 44px;
+    }
+    .almonds hr {
+        width: 687px;
+    }
+    .almonds li:first-child {
+        font-size: 34px;
+    }
+    .almonds li:last-child {
+        font-size: 36px;
+    }
+    .almonds__text img {
+        width: 20%;
+        position: absolute;
+        left: 580px;
+        top: 920px;
+    }
+
+
+    .hazelnut {
+        width: 773px;
+        height: 940px;
+    }
+    .hazelnut>img {
+        width: 100%;
+    }
+    .hazelnut p {
+        font-size: 35px;
+        border-radius: 8px;
+        padding: 30px 40px;
+    }
+    .hazelnut h6 {
+        font-size: 44px;
+    }
+    .hazelnut hr {
+        width: 687px;
+    }
+    .hazelnut li:first-child {
+        font-size: 34px;
+    }
+    .hazelnut li:last-child {
+        font-size: 36px;
+    }
+    .hazelnut__text img {
+        width: 20%;
+        position: absolute;
+        left: 580px;
+        top: 920px;
+    }
+
+
+
+
+    .reviews {
+        background-repeat: no-repeat;
+        margin-bottom: 600px;
+    }
+    .reviews h5 {
+        font-size: 65px;
+    }
+    .reviews h2 {
+        font-size: 88px;
+    }
+    .reviews img {
+        width: 10%;
+    }
+    .reviews__text p {
+        font-size: 36px;
+    }
+    .reviews__text h4 {
+        font-size: 52px;
+    }
+    .reviews__text h6 {
+        font-size: 32px;
+    }
+    .circle1 img{
+        margin: 0px 100px;
+        width: 100%;
+        padding: 0 10px;
+    }
+    .circle2 img{
+        margin: 0px 100px;
+        width: 100%;
+        padding: 0 10px;
+    }
+    .circle3 img{
+        margin: 0px 100px;
+        width: 100%;
+        padding: 0 10px;
+    }
+    .circle4 img{
+        margin: 0px 100px;
+        width: 100%;
+        padding: 0 10px;
+    }
+
+    .circle1 li:first-child {
+        font-size: 58px;
+        top:140px;
+        left: 230px;
+    }
+    .circle1 li:last-child {
+        padding-top: 10px;
+        font-size: 36px;
+        top:190px;
+        left: 232px;
+    }
+    .circle2 li:first-child {
+        font-size: 58px;
+        top:140px;
+        left: 230px;
+    }
+    .circle2 li:last-child {
+        padding-top: 10px;
+        font-size: 36px;
+        top:190px;
+        left: 120px;
+        width: 100%;
+    }
+    .circle3 li:first-child {
+        font-size: 58px;
+        top:140px;
+        left: 230px;
+    }
+    .circle3 li:last-child {
+        padding-top: 10px;
+        font-size: 36px;
+        top:190px;
+        left: 115px;
+        width: 100%;
+    }
+    .circle4 li:first-child {
+        font-size: 58px;
+        top:140px;
+        left: 230px;
+    }
+    .circle4 li:last-child {
+        padding-top: 10px;
+        font-size: 36px;
+        top:190px;
+        left: 100px;
+        width: 100%;
+    }
+
+
+
+    .offer h4 {
+        font-size: 65px;
+    }
+    .offer h2 {
+        font-size: 88px;
+    }
+
+    .tomato {
+        width: 773px;
+        height: 940px;
+    }
+    .tomato>img {
+        width: 100%;
+    }
+    .tomato p {
+        font-size: 35px;
+        border-radius: 8px;
+        padding: 30px 40px;
+    }
+    .tomato h6 {
+        font-size: 44px;
+    }
+    .tomato hr {
+        width: 687px;
+    }
+    .tomato li:first-child {
+        font-size: 34px;
+    }
+    .tomato li:last-child {
+        font-size: 36px;
+    }
+    .tomato__text img {
+        width: 20%;
+        position: absolute;
+        left: 580px;
+        top: 920px;
+    }
+    .almonds {
+        width: 773px;
+        height: 940px;
+    }
+    .almonds>img {
+        width: 100%;
+    }
+    .almonds p {
+        font-size: 35px;
+        border-radius: 8px;
+        padding: 30px 40px;
+    }
+    .almonds h6 {
+        font-size: 44px;
+    }
+    .almonds hr {
+        width: 687px;
+    }
+    .almonds li:first-child {
+        font-size: 34px;
+    }
+    .almonds li:last-child {
+        font-size: 36px;
+    }
+    .almonds__text img {
+        width: 20%;
+        position: absolute;
+        left: 580px;
+        top: 920px;
+    }
+
+    .corn {
+        width: 773px;
+        height: 940px;
+    }
+    .corn >img {
+        width: 100%;
+    }
+    .corn  p {
+        font-size: 35px;
+        border-radius: 8px;
+        padding: 30px 40px;
+    }
+    .corn  h6 {
+        font-size: 44px;
+    }
+    .corn  hr {
+        width: 687px;
+    }
+    .corn  li:first-child {
+        font-size: 34px;
+    }
+    .corn  li:last-child {
+        font-size: 36px;
+    }
+    .corn__text img {
+        width: 20%;
+        position: absolute;
+        left: 580px;
+        top: 920px;
+    }
+
+    .underPic__button button {
+        width: 400px;
+    }
+    .underPic__button img {
+        width: 2%;
+        top: 8630px;
+        right:35px
+    }
+
+
+
+    .advantages {
+        margin-top: 300px;
+        margin-bottom: 200px;
+        background-size: 50%;
+    }
+    .advantages__text {
+        margin-top: -200px;
+        height: 923px;
+    }
+    .advantages__text h4 {
+        font-size: 65px;
+    }
+    .advantages__text h2 {
+        font-size: 88px; 
+    }
+    .advantages__text h5 {
+        font-size: 46px; 
+    }
+    .advantages__text p {
+        font-size: 36px;
+    }
+
+
+
+    .gallery {
+        padding-right: 130px;
+    }
+    .pic1 img{
+        width: 120% ;
+        margin: 0 0px;
+    }
+    .pic2 img{
+        width: 120% ;
+        margin: 0 0px;
+    }
+    .pic3 img{
+        width: 120% ;
+        margin: 0 0px;
+    }
+    .pic1 p {
+        width: 80%;
+        padding: 30px 5px;
+        font-size: 45px;
+        top: 290px;
+        left: 120px;
+    }
+    .pic2 p {
+        width: 80%;
+        padding: 30px 0px;
+        font-size: 45px;
+        top: 290px;
+        left: 120px;
+    }
+    .pic3 p {
+        width: 80%;
+        padding: 30px 5px;
+        font-size: 45px;
+        top: 290px;
+        left: 120px;
+    }
+    
+
+
+    .footer {
+        background-size: 100%;
+    }
+    .footer__upLeft {
+        font-size: 60px;
+    }
+    .footer__upRight input {
+        width: 450px;
+        height: 100px;
+        margin-left: 80px;
+        font-size: 36px;
+    }
+    .footer__upRight button {
+        width: 380px;
+        top: 0px;
+        left: 60px;
+    }
+    .footer__upRight img {
+        width: 2%;
+        top: 12260px;
+        left: 2400px;
+    }
+
+    
+    .footer__down .block1 h3 {
+        font-size: 60px;
+    }
+    .footer__down .block1 h5 {
+        font-size: 36px;
+    }
+    .footer__down .block1 p {
+        font-size: 36px;
+    }
+    .footer__down .block2 p {
+        font-size: 36px;
+        padding-left: 180px;
+    }
+    
+    .footer__down .block3 h3 {
+        font-size: 60px;
+        font-weight: bold;
+        color: #274C5B;
+        padding-bottom: 20px;
+    }
+    .footer__down .block3 p{
+        font-size: 36px;
+        color: #525C60;
+    }
+    .block2__pic img {
+        width: 150%;
+    }
+    .block2__links {
+        display: flex;
+        width: 20%;
+    }
+    .block2__links img {
+        width: 100%;
+    }
+
+}
+
+
+
+@media (max-width:1920px){
+    .header .logo img {
+        width: 200%;
+    }
+    .nav a{
+        font-size: 40px;
+    }
+    .header .cart{
+        padding:20px 20px 15px 10px;
+        border: 1px solid #D4D4D4;
+        border-radius: 100px ;
+        width: 250px;
+       position: relative;
+       right: 30px;
+    }
+    .header .cart span {
+        font-size: 40px;
+        padding-top: 25px;
+        margin-left: 10px;
+    }
+    .header .cart img {
+        width: 45%;
+    }
+
+
+
+    .promo {
+        background-image: url(/images/bg-promo.svg);
+        background-repeat: no-repeat;
+        background-size: 100%;
+        padding-bottom: 150px;
+    }
+    .promo__text h1 {
+        font-size: 90px;
+        padding: 50px 0;
+    }
+    .promo__text h4 {
+        font-size: 65px;
+    }
+    button  {
+        width: 369px;
+        height: 120px;
+        font-size: 40px;
+        padding-right: 50px;
+    }
+    .promo__text img {
+        width: 20%;
+        left: 280px;
+        top: 25px;   
+    }
+
+
+
+    .about {
+        margin-bottom: 300px;
+    }
+    .about__pics img{
+        width: 905px;
+    }
+    .about__left h4 {
+        font-size: 65px;
+    }
+    .about__left p {
+        font-size: 70px;
+    }
+    .about__right h4 {
+        font-size: 65px;
+        margin-left: -300px;
+    }
+    .about__right p {
+        font-size: 70px;
+        width: 87%;
+        margin-left: -300px;
+    }
+    .about__text2 {
+        left: 1340px;
+    }
+    .icon1 img{
+        width: 30%;
+    }
+    .icon2 img{
+        width: 30%;
+    }
+    .aboutUs__pic img {
+        width: 180%;
+    }
+    .aboutUs__content {
+        width: 50%;
+        padding-left: 500px;
+    }
+    .aboutUs__content h4 {
+        font-size: 65px;
+    }
+    .aboutUs__content h2 {
+        font-size: 88px;
+    }
+    .aboutUs__content p {
+        font-size: 36px;
+    }
+    .icon1__text h5 {
+        font-size: 45px;
+    }
+    .aboutUs button {
+        width: 369px;
+        height: 120px;
+        font-size: 40px;
+        padding-right: 50px;
+    }
+    .aboutUs button>img  {
+        width: 20%;
+        left: 270px
+    }
+
+
+
+
+
+    .shop {
+        padding: 300px 30px;
+    }
+    .shop h5 {
+        font-size: 65px;
+    }
+    .shop h2 {
+        font-size: 88px;
+    }
+
+    .broccoli{
+        width: 603px;
+        height: 800px;
+    }
+    .broccoli>img {
+        width: 100%;
+    }
+    .broccoli p {
+        font-size: 30px;
+        border-radius: 8px;
+        padding: 30px 40px;
+    }
+    .broccoli h6 {
+        font-size: 40px;
+    }
+    .broccoli hr {
+        width: 530px;
+    }
+    .broccoli li:first-child {
+        font-size: 24px;
+    }
+    .broccoli li:last-child {
+        font-size: 26px;
+    }
+    .broccoli__text img {
+        width: 20%;
+        position: absolute;
+        left: 450px;
+        top: 760px;
+    }
+
+    .corn {
+        width: 773px;
+        height: 940px;
+    }
+    .corn >img {
+        width: 100%;
+    }
+    .corn  p {
+        font-size: 35px;
+        border-radius: 8px;
+        padding: 30px 40px;
+    }
+    .corn  h6 {
+        font-size: 44px;
+    }
+    .corn  hr {
+        width: 687px;
+    }
+    .corn  li:first-child {
+        font-size: 34px;
+    }
+    .corn  li:last-child {
+        font-size: 36px;
+    }
+    .corn__text img {
+        width: 20%;
+        position: absolute;
+        left: 580px;
+        top: 920px;
+    }
+
+
+    .pistachio{
+        width: 603px;
+        height: 800px;
+    }
+    .pistachio>img {
+        width: 100%;
+    }
+    .pistachio p {
+        font-size: 30px;
+        border-radius: 8px;
+        padding: 30px 40px;
+    }
+    .pistachio h6 {
+        font-size: 40px;
+    }
+    .pistachio hr {
+        width: 530px;
+    }
+    .pistachio li:first-child {
+        font-size: 24px;
+    }
+    .pistachio li:last-child {
+        font-size: 26px;
+    }
+    .pistachio__text img {
+        width: 20%;
+        position: absolute;
+        left: 450px;
+        top: 760px;
+    }
+
+
+    .tomato {
+        width: 773px;
+        height: 940px;
+    }
+    .tomato>img {
+        width: 100%;
+    }
+    .tomato p {
+        font-size: 35px;
+        border-radius: 8px;
+        padding: 30px 40px;
+    }
+    .tomato h6 {
+        font-size: 44px;
+    }
+    .tomato hr {
+        width: 687px;
+    }
+    .tomato li:first-child {
+        font-size: 34px;
+    }
+    .tomato li:last-child {
+        font-size: 36px;
+    }
+    .tomato__text img {
+        width: 20%;
+        position: absolute;
+        left: 580px;
+        top: 920px;
+    }
+
+
+    .almonds {
+        width: 773px;
+        height: 940px;
+    }
+    .almonds>img {
+        width: 100%;
+    }
+    .almonds p {
+        font-size: 35px;
+        border-radius: 8px;
+        padding: 30px 40px;
+    }
+    .almonds h6 {
+        font-size: 44px;
+    }
+    .almonds hr {
+        width: 687px;
+    }
+    .almonds li:first-child {
+        font-size: 34px;
+    }
+    .almonds li:last-child {
+        font-size: 36px;
+    }
+    .almonds__text img {
+        width: 20%;
+        position: absolute;
+        left: 580px;
+        top: 920px;
+    }
+
+
+    .hazelnut{
+        width: 603px;
+        height: 800px;
+    }
+    .hazelnut>img {
+        width: 100%;
+    }
+    .hazelnut p {
+        font-size: 30px;
+        border-radius: 8px;
+        padding: 30px 40px;
+    }
+    .hazelnut h6 {
+        font-size: 40px;
+    }
+    .hazelnut hr {
+        width: 530px;
+    }
+    .hazelnut li:first-child {
+        font-size: 24px;
+    }
+    .hazelnut li:last-child {
+        font-size: 26px;
+    }
+    .hazelnut__text img {
+        width: 20%;
+        position: absolute;
+        left: 450px;
+        top: 760px;
+    }
+
+
+
+
+    .reviews {
+        background-repeat: no-repeat;
+        margin-bottom: 100px;
+    }
+    .reviews h5 {
+        font-size: 65px;
+    }
+    .reviews h2 {
+        font-size: 88px;
+    }
+    .reviews img {
+        width: 10%;
+    }
+    .reviews__text p {
+        font-size: 36px;
+    }
+    .reviews__text h4 {
+        font-size: 52px;
+    }
+    .reviews__text h6 {
+        font-size: 32px;
+    }
+    .circles {
+        margin-right: 200px;
+    }
+    .circle1 img{
+        margin: 0px 100px;
+        width: 110%;
+        padding: 0 10px;
+    }
+    .circle2 img{
+        margin: 0px 100px;
+        width: 110%;
+        padding: 0 10px;
+    }
+    .circle3 img{
+        margin: 0px 100px;
+        width: 110%;
+        padding: 0 10px;
+    }
+    .circle4 img{
+        margin: 0px 100px;
+        width: 110%;
+        padding: 0 10px;
+    }
+
+    .circle1 li:first-child {
+        font-size: 58px;
+        top: 70px;
+        left: 160px;
+    }
+    .circle1 li:last-child {
+        padding-top: 10px;
+        font-size: 36px;
+        top:120px;
+        left: 170px;
+    }
+    .circle2 li:first-child {
+        font-size: 58px;
+        top: 70px;
+        left: 185px;
+    }
+    .circle2 li:last-child {
+        padding-top: 10px;
+        font-size: 36px;
+        top:120px;
+        left: 135px;
+        width: 90%;
+    }
+    .circle3 li:first-child {
+        font-size: 58px;
+        top: 70px;
+        left: 170px;
+    }
+    .circle3 li:last-child {
+        padding-top: 10px;
+        font-size: 36px;
+        top:120px;
+        left: 135px;
+        width: 90%;
+    }
+    .circle4 li:first-child {
+        font-size: 58px;
+        top: 70px;
+        left: 180px;
+    }
+    .circle4 li:last-child {
+        padding-top: 10px;
+        font-size: 36px;
+        top:120px;
+        left: 135px;
+        width: 90%;
+    }
+
+
+
+    .offer h4 {
+        font-size: 65px;
+    }
+    .offer h2 {
+        font-size: 88px;
+    }
+
+    .tomato {
+        width: 603px;
+        height: 800px;
+    }
+    .tomato>img {
+        width: 100%;
+    }
+    .tomato p {
+        font-size: 30px;
+        border-radius: 8px;
+        padding: 30px 40px;
+    }
+    .tomato h6 {
+        font-size: 40px;
+    }
+    .tomato hr {
+        width: 530px;
+    }
+    .tomato li:first-child {
+        font-size: 24px;
+    }
+    .tomato li:last-child {
+        font-size: 26px;
+    }
+    .tomato__text img {
+        width: 20%;
+        position: absolute;
+        left: 450px;
+        top: 760px;
+    }
+
+    .almonds {
+        width: 603px;
+        height: 800px;
+    }
+    .almonds>img {
+        width: 100%;
+    }
+    .almonds p {
+        font-size: 30px;
+        border-radius: 8px;
+        padding: 30px 40px;
+    }
+    .almonds h6 {
+        font-size: 40px;
+    }
+    .almonds hr {
+        width: 530px;
+    }
+    .almonds li:first-child {
+        font-size: 24px;
+    }
+    .almonds li:last-child {
+        font-size: 26px;
+    }
+    .almonds__text img {
+        width: 20%;
+        position: absolute;
+        left: 450px;
+        top: 760px;
+    }
+
+    .corn {
+        width: 603px;
+        height: 800px;
+    }
+    .corn>img {
+        width: 100%;
+    }
+    .corn p {
+        font-size: 30px;
+        border-radius: 8px;
+        padding: 30px 40px;
+    }
+    .corn h6 {
+        font-size: 40px;
+    }
+    .corn hr {
+        width: 530px;
+    }
+    .corn li:first-child {
+        font-size: 24px;
+    }
+    .corn li:last-child {
+        font-size: 26px;
+    }
+    .corn__text img {
+        width: 20%;
+        position: absolute;
+        left: 450px;
+        top: 760px;
+    }
+    
+
+
+
+    .underPic__button button {
+        width: 400px;
+    }
+    .underPic__button img {
+        width: 3%;
+        top: 7680px;
+        right:32px
+    }
+
+
+
+    .advantages {
+        margin-top: 300px;
+        margin-bottom: 200px;
+        background-size: 50%;
+    }
+    .advantages__text {
+        margin-top: -200px;
+        height: 923px;
+    }
+    .advantages__text h4 {
+        font-size: 65px;
+    }
+    .advantages__text h2 {
+        font-size: 75px; 
+    }
+    .advantages__text h5 {
+        font-size: 46px; 
+    }
+    .advantages__text p {
+        font-size: 36px;
+    }
+
+
+
+    .gallery {
+        padding-right: 130px;
+    }
+    .pic1 img{
+        width: 120% ;
+        margin: 0 0px;
+    }
+    .pic2 img{
+        width: 120% ;
+        margin: 0 0px;
+    }
+    .pic3 img{
+        width: 120% ;
+        margin: 0 0px;
+    }
+    .pic1 p {
+        width: 80%;
+        padding: 30px 5px;
+        font-size: 45px;
+        top: 290px;
+        left: 120px;
+    }
+    .pic2 p {
+        width: 80%;
+        padding: 30px 0px;
+        font-size: 45px;
+        top: 290px;
+        left: 120px;
+    }
+    .pic3 p {
+        width: 80%;
+        padding: 30px 5px;
+        font-size: 45px;
+        top: 290px;
+        left: 120px;
+    }
+    
+
+
+    .footer {
+        background-size: 100%;
+    }
+    .footer__upLeft {
+        font-size: 60px;
+    }
+    .footer__upRight input {
+        width: 400px;
+        height: 100px;
+        margin-left: 80px;
+        font-size: 36px;
+    }
+    .footer__upRight button {
+        width: 270px;
+        top: -110px;
+        left: 510px;
+    }
+    .footer__upRight img {
+        width: 3%;
+        top: 11170px;
+        left: 1820px;
+    }
+
+    
+    .footer__down .block1 h3 {
+        font-size: 60px;
+    }
+    .footer__down .block1 h5 {
+        font-size: 36px;
+    }
+    .footer__down .block1 p {
+        font-size: 36px;
+    }
+    .footer__down .block2 p {
+        font-size: 36px;
+        padding-left: 180px;
+    }
+    
+    .footer__down .block3 h3 {
+        font-size: 60px;
+        font-weight: bold;
+        color: #274C5B;
+        padding-bottom: 20px;
+    }
+    .footer__down .block3 p{
+        font-size: 36px;
+        color: #525C60;
+    }
+    .block2__pic img {
+        width: 150%;
+    }
+    .block2__links {
+        display: flex;
+        width: 20%;
+       margin-left: 100px;
+    }
+    .block2__links img {
+        width: 110%;
+    }
+}
+
+
+
+
+
+
+@media (max-width:1440px){
+    .header .logo img {
+        width: 100%;
+    }
+    .nav a{
+        font-size: 30px;
+    }
+    .header .cart{
+        padding:10px;
+        border-radius: 100px ;
+        width: 220px;
+        right: 30px;
+    }
+    .header .cart span {
+        font-size: 40px;
+        padding-top: 5px;
+        margin-left: 10px;
+    }
+    .header .cart img {
+        width: 30%;
+    }
+
+
+
+    .promo {
+        background-image: url(/images/bg-promo.svg);
+        background-repeat: no-repeat;
+        background-size: 100%;
+        padding-bottom: 50px;
+    }
+    .promo__text h1 {
+        font-size: 70px;
+        padding: 50px 0;
+    }
+    .promo__text h4 {
+        font-size: 55px;
+    }
+    button  {
+        width: 280px;
+        font-size: 20px;
+        height: 120px;
+        font-size: 40px;
+        padding-right: 50px;
+    }
+    .promo__text img {
+        width: 15%;
+        left: 230px;
+        top: 40px;   
+    }
+
+
+
+    .about {
+        margin-bottom: 50px;
+    }
+    .about__pics img{
+        width: 675px;
+    }
+    .about__left h4 {
+        font-size:50px;
+    }
+    .about__left p {
+        font-size: 55px;
+    }
+    .about__right h4 {
+        font-size: 50px;
+        margin-left: -600px;
+    }
+    .about__right p {
+        font-size: 55px;
+        width: 350px;
+        margin-left: -600px;
+    }
+    .about__text2 {
+        left: 1340px;
+    }
+    .icon1 img{
+        width: 30%;
+    }
+    .icon2 img{
+        width: 30%;
+    }
+    .aboutUs__pic img {
+        width: 180%;
+    }
+    .aboutUs__content {
+        width: 100%;
+        padding-left: 250px;
+    }
+    .aboutUs__content h4 {
+        font-size: 45px;
+    }
+    .aboutUs__content h2 {
+        font-size: 55px;
+    }
+    .aboutUs__content p {
+        font-size: 30px;
+    }
+    .icon1__text h5 {
+        font-size: 38px;
+    }
+    .aboutUs button {
+        width: 280px;
+        height: 100px;
+        font-size: 40px;
+        padding-right: 50px;
+    }
+    .aboutUs button>img  {
+        width: 20%;
+        left: 220px;
+        padding-top: 3px;
+    }
+
+
+
+
+
+    .shop {
+        padding-top: 300px;
+        padding-bottom: 100px;
+    }
+    .shop h5 {
+        font-size: 45px;
+    }
+    .shop h2 {
+        font-size: 55px;
+    }
+
+    .broccoli{
+        width: 440px;
+        height: 600px;
+    }
+    .broccoli>img {
+        width: 100%;
+    }
+    .broccoli p {
+        font-size: 25px;
+        border-radius: 8px;
+        padding: 15px;
+    }
+    .broccoli h6 {
+        font-size: 35px;
+    }
+    .broccoli hr {
+        width: 380px;
+    }
+    .broccoli li:first-child {
+        font-size: 20px;
+    }
+    .broccoli li:last-child {
+        font-size:22px;
+    }
+    .broccoli__text img {
+        width: 20%;
+        position: absolute;
+        left: 320px;
+        top: 590px;
+    }
+
+    .corn {
+        width: 440px;
+        height: 600px;
+    }
+    .corn>img {
+        width: 100%;
+    }
+    .corn p {
+        font-size: 25px;
+        border-radius: 8px;
+        padding: 15px;
+    }
+    .corn h6 {
+        font-size: 35px;
+    }
+    .corn hr {
+        width: 380px;
+    }
+    .corn li:first-child {
+        font-size: 20px;
+    }
+    .corn li:last-child {
+        font-size:22px;
+    }
+    .corn__text img {
+        width: 20%;
+        position: absolute;
+        left: 320px;
+        top: 590px;
+    }
+
+
+    .pistachio{
+        width: 440px;
+        height: 600px;
+    }
+    .pistachio>img {
+        width: 100%;
+    }
+    .pistachio p {
+        font-size: 25px;
+        border-radius: 8px;
+        padding: 15px;
+    }
+    .pistachio h6 {
+        font-size: 35px;
+    }
+    .pistachio hr {
+        width: 380px;
+    }
+    .pistachio li:first-child {
+        font-size: 20px;
+    }
+    .pistachio li:last-child {
+        font-size:22px;
+    }
+    .pistachio__text img {
+        width: 20%;
+        position: absolute;
+        left: 320px;
+        top: 590px;
+    }
+
+
+    .tomato{
+        width: 440px;
+        height: 600px;
+    }
+    .tomato>img {
+        width: 100%;
+    }
+    .tomato p {
+        font-size: 25px;
+        border-radius: 8px;
+        padding: 15px;
+    }
+    .tomato h6 {
+        font-size: 35px;
+    }
+    .tomato hr {
+        width: 380px;
+    }
+    .tomato li:first-child {
+        font-size: 20px;
+    }
+    .tomato li:last-child {
+        font-size:22px;
+    }
+    .tomato__text img {
+        width: 20%;
+        position: absolute;
+        left: 320px;
+        top: 590px;
+    }
+
+
+    .almonds{
+        width: 440px;
+        height: 600px;
+    }
+    .almonds>img {
+        width: 100%;
+    }
+    .almonds p {
+        font-size: 25px;
+        border-radius: 8px;
+        padding: 15px;
+    }
+    .almonds h6 {
+        font-size: 35px;
+    }
+    .almonds hr {
+        width: 380px;
+    }
+    .almonds li:first-child {
+        font-size: 20px;
+    }
+    .almonds li:last-child {
+        font-size:22px;
+    }
+    .almonds__text img {
+        width: 20%;
+        position: absolute;
+        left: 320px;
+        top: 590px;
+    }
+
+
+    .hazelnut{
+        width: 440px;
+        height: 600px;
+    }
+    .hazelnut>img {
+        width: 100%;
+    }
+    .hazelnut p {
+        font-size: 25px;
+        border-radius: 8px;
+        padding: 15px;
+    }
+    .hazelnut h6 {
+        font-size: 35px;
+    }
+    .hazelnut hr {
+        width: 380px;
+    }
+    .hazelnut li:first-child {
+        font-size: 20px;
+    }
+    .hazelnut li:last-child {
+        font-size:22px;
+    }
+    .hazelnut__text img {
+        width: 20%;
+        position: absolute;
+        left: 320px;
+        top: 590px;
+    }
+
+
+
+
+    .reviews {
+        background-repeat: no-repeat;
+        margin-bottom: 100px;
+    }
+    .reviews h5 {
+        font-size: 45px;
+    }
+    .reviews h2 {
+        font-size: 65px;
+    }
+    .reviews img {
+        width: 10%;
+    }
+    .reviews__text p {
+        font-size: 30px;
+    }
+    .reviews__text h4 {
+        font-size: 50px;
+    }
+    .reviews__text h6 {
+        font-size: 28px;
+    }
+    .circles {
+        margin-right: 200px;
+    }
+    .circle1 img{
+        margin: 0px 100px;
+        width: 110%;
+        padding: 0 10px;
+    }
+    .circle2 img{
+        margin: 0px 100px;
+        width: 110%;
+        padding: 0 10px;
+    }
+    .circle3 img{
+        margin: 0px 100px;
+        width: 110%;
+        padding: 0 10px;
+    }
+    .circle4 img{
+        margin: 0px 100px;
+        width: 110%;
+        padding: 0 10px;
+    }
+
+    .circle1 li:first-child {
+        font-size: 38px;
+        top: 80px;
+        left: 180px;
+    }
+    .circle1 li:last-child {
+        padding-top: 10px;
+        font-size: 36px;
+        top:110px;
+        left: 170px;
+    }
+    .circle2 li:first-child {
+        font-size: 38px;
+        top: 80px;
+        left: 200px;
+    }
+    .circle2 li:last-child {
+        padding-top: 10px;
+        font-size: 36px;
+        top:110px;
+        left: 135px;
+        width: 90%;
+    }
+    .circle3 li:first-child {
+        font-size: 38px;
+        top: 80px;
+        left: 190px;
+    }
+    .circle3 li:last-child {
+        padding-top: 10px;
+        font-size: 36px;
+        top:110px;
+        left: 135px;
+        width: 90%;
+    }
+    .circle4 li:first-child {
+        font-size: 38px;
+        top: 80px;
+        left: 190px;
+    }
+    .circle4 li:last-child {
+        padding-top: 10px;
+        font-size: 36px;
+        top:110px;
+        left: 135px;
+        width: 90%;
+    }
+
+
+
+    .offer h4 {
+        font-size: 45px;
+    }
+    .offer h2 {
+        font-size: 65px;
+    }
+
+    .tomato{
+        width: 440px;
+        height: 600px;
+    }
+    .tomato>img {
+        width: 100%;
+    }
+    .tomato p {
+        font-size: 25px;
+        border-radius: 8px;
+        padding: 15px;
+    }
+    .tomato h6 {
+        font-size: 35px;
+    }
+    .tomato hr {
+        width: 380px;
+    }
+    .tomato li:first-child {
+        font-size: 20px;
+    }
+    .tomato li:last-child {
+        font-size:22px;
+    }
+    .tomato__text img {
+        width: 20%;
+        position: absolute;
+        left: 320px;
+        top: 590px;
+    }
+
+    .almonds{
+        width: 440px;
+        height: 600px;
+    }
+    .almonds>img {
+        width: 100%;
+    }
+    .almonds p {
+        font-size: 25px;
+        border-radius: 8px;
+        padding: 15px;
+    }
+    .almonds h6 {
+        font-size: 35px;
+    }
+    .almonds hr {
+        width: 380px;
+    }
+    .almonds li:first-child {
+        font-size: 20px;
+    }
+    .almonds li:last-child {
+        font-size:22px;
+    }
+    .almonds__text img {
+        width: 20%;
+        position: absolute;
+        left: 320px;
+        top: 590px;
+    }
+
+    .corn{
+        width: 440px;
+        height: 600px;
+    }
+    .corn>img {
+        width: 100%;
+    }
+    .corn p {
+        font-size: 25px;
+        border-radius: 8px;
+        padding: 15px;
+    }
+    .corn h6 {
+        font-size: 35px;
+    }
+    .corn hr {
+        width: 380px;
+    }
+    .corn li:first-child {
+        font-size: 20px;
+    }
+    .corn li:last-child {
+        font-size:22px;
+    }
+    .corn__text img {
+        width: 20%;
+        position: absolute;
+        left: 320px;
+        top: 590px;
+    }
+    
+
+
+
+    .underPic__button button {
+        width:380px;
+    }
+    .underPic__button img {
+        width: 3%;
+        top: 6300px;
+        right:32px
+    }
+
+
+
+    .advantages {
+        margin-top: 300px;
+        margin-bottom: 200px;
+        background-size: 50%;
+    }
+    .advantages__text {
+        margin-top: -200px;
+        height: 923px;
+    }
+    .advantages__text h4 {
+        font-size: 45px;
+    }
+    .advantages__text h2 {
+        width: 80%;
+        font-size: 65px; 
+    }
+    .advantages__text h5 {
+        font-size: 38px; 
+    }
+    .advantages__text p {
+        font-size: 28px;
+    }
+
+
+
+    .gallery {
+        padding-right: 0px;
+    }
+    .pic1 img{
+        width: 90% ;
+        margin: 0 0px;
+    }
+    .pic2 img{
+        width: 90% ;
+        margin: 0 0px;
+    }
+    .pic3 img{
+        width: 90% ;
+        margin: 0 0px;
+    }
+    .pic1 p {
+        width: 60%;
+        padding: 30px 5px;
+        font-size: 35px;
+        top: 210px;
+        left: 90px;
+    }
+    .pic2 p {
+        width: 60%;
+        padding: 30px 5px;
+        font-size: 35px;
+        top: 210px;
+        left: 90px;
+    }
+    .pic3 p {
+        width: 60%;
+        padding: 30px 5px;
+        font-size: 35px;
+        top: 210px;
+        left: 90px;
+    }
+    
+
+
+    .footer {
+        background-size: 100%;
+    }
+    .footer__upLeft {
+        font-size: 35px;
+    }
+    .footer__upRight input {
+        width: 390px;
+        height: 100px;
+        margin-right: 200px;
+        font-size: 36px;
+    }
+    .footer__upRight button {
+        width: 240px;
+        top: -110px;
+        left: 500px;
+    }
+    .footer__upRight img {
+        width: 3%;
+        top: 9315px;
+        left: 1335px;
+    }
+
+    
+    .footer__down .block1 h3 {
+        font-size: 45px;
+    }
+    .footer__down .block1 h5 {
+        font-size: 26px;
+    }
+    .footer__down .block1 p {
+        font-size: 26px;
+    }
+    .footer__down .block2 p {
+        font-size: 26px;
+        padding-left: 100px;
+    }
+    
+    .footer__down .block3 h3 {
+        font-size: 45px;
+        font-weight: bold;
+        color: #274C5B;
+        padding-bottom: 20px;
+    }
+    .footer__down .block3 p{
+        font-size: 26px;
+        color: #525C60;
+    }
+    .block2__pic img {
+        width: 150%;
+    }
+    .block2__links {
+        display: flex;
+        width: 20%;
+       margin-left: 100px;
+    }
+    .block2__links img {
+        width: 110%;
+    }
+}
+
+
+
+
+
+
+
+@media (max-width:1280px){
+    .header .logo img {
+        width: 100%;
+    }
+    .nav a{
+        font-size: 30px;
+    }
+    .header .cart{
+        padding:10px;
+        border-radius: 100px ;
+        width: 220px;
+        right: 30px;
+    }
+    .header .cart span {
+        font-size: 40px;
+        padding-top: 5px;
+        margin-left: 10px;
+    }
+    .header .cart img {
+        width: 30%;
+    }
+
+
+
+    .promo {
+        background-image: url(/images/bg-promo.svg);
+        background-repeat: no-repeat;
+        background-size: 100%;
+        padding-bottom: 20px;
+    }
+    .promo__text h1 {
+        font-size: 60px;
+        padding: 50px 0;
+    }
+    .promo__text h4 {
+        font-size: 50px;
+    }
+    button  {
+        width: 280px;
+        font-size: 20px;
+        height: 120px;
+        font-size: 40px;
+        padding-right: 50px;
+    }
+    .promo__text img {
+        width: 15%;
+        left: 230px;
+        top: 40px;   
+    }
+
+
+
+    .about {
+        margin-top: -100px;
+        margin-bottom: 50px;
+    }
+    .about__pics img{
+        width: 600px;
+    }
+    .about__left h4 {
+        font-size: 40px;
+        width: 200px;
+    }
+    .about__left p {
+        font-size: 55px;
+    }
+    .about__right h4 {
+        font-size: 50px;
+        margin-left: -680px;
+        width: 200px;
+    }
+    .about__right p {
+        font-size: 55px;
+        width: 350px;
+        margin-left: -680px;
+    }
+    .about__text2 {
+        left: 1340px;
+    }
+    .icon1 img{
+        width: 30%;
+    }
+    .icon2 img{
+        width: 30%;
+    }
+    .aboutUs__pic img {
+        width: 180%;
+    }
+    .aboutUs__content {
+        width: 100%;
+        padding-left: 250px;
+    }
+    .aboutUs__content h4 {
+        font-size: 40px;
+    }
+    .aboutUs__content h2 {
+        font-size: 50px;
+    }
+    .aboutUs__content p {
+        font-size: 25px;
+    }
+    .icon1__text h5 {
+        font-size: 38px;
+    }
+    .aboutUs button {
+        width: 280px;
+        height: 100px;
+        font-size: 40px;
+        padding-right: 50px;
+    }
+    .aboutUs button>img  {
+        width: 20%;
+        left: 220px;
+        padding-top: 3px;
+    }
+
+
+
+
+
+    .shop {
+        padding-top: 300px;
+        padding-bottom: 100px;
+    }
+    .shop h5 {
+        font-size: 35px;
+    }
+    .shop h2 {
+        font-size: 50px;
+    }
+
+    .broccoli{
+        width: 385px;
+        height: 560px;
+    }
+    .broccoli>img {
+        width: 100%;
+    }
+    .broccoli p {
+        font-size: 20px;
+        border-radius: 8px;
+        padding: 15px;
+    }
+    .broccoli h6 {
+        font-size: 30px;
+    }
+    .broccoli hr {
+        width: 380px;
+    }
+    .broccoli li:first-child {
+        font-size: 18px;
+    }
+    .broccoli li:last-child {
+        font-size:20px;
+        margin-left: -20px;
+    }
+    .broccoli__text img {
+        width: 20%;
+        position: absolute;
+        left: 300px;
+        top: 530px;
+    }
+
+    .corn{
+        width: 385px;
+        height: 560px;
+    }
+    .corn>img {
+        width: 100%;
+    }
+    .corn p {
+        font-size: 20px;
+        border-radius: 8px;
+        padding: 15px;
+    }
+    .corn h6 {
+        font-size: 30px;
+    }
+    .corn hr {
+        width: 380px;
+    }
+    .corn li:first-child {
+        font-size: 18px;
+    }
+    .corn li:last-child {
+        font-size:20px;
+        margin-left: -20px;
+    }
+    .corn__text img {
+        width: 20%;
+        position: absolute;
+        left: 300px;
+        top: 530px;
+    }
+
+
+    .pistachio{
+        width: 385px;
+        height: 560px;
+    }
+    .pistachio>img {
+        width: 100%;
+    }
+    .pistachio p {
+        font-size: 20px;
+        border-radius: 8px;
+        padding: 15px;
+    }
+    .pistachio h6 {
+        font-size: 30px;
+    }
+    .pistachio hr {
+        width: 380px;
+    }
+    .pistachio li:first-child {
+        font-size: 18px;
+    }
+    .pistachio li:last-child {
+        font-size:20px;
+        margin-left: -20px;
+    }
+    .pistachio__text img {
+        width: 20%;
+        position: absolute;
+        left: 300px;
+        top: 530px;
+    }
+
+
+    .tomato{
+        width: 385px;
+        height: 560px;
+    }
+    .tomato>img {
+        width: 100%;
+    }
+    .tomato p {
+        font-size: 20px;
+        border-radius: 8px;
+        padding: 15px;
+    }
+    .tomato h6 {
+        font-size: 30px;
+    }
+    .tomato hr {
+        width: 380px;
+    }
+    .tomato li:first-child {
+        font-size: 18px;
+    }
+    .tomato li:last-child {
+        font-size:20px;
+        margin-left: -20px;
+    }
+    .tomato__text img {
+        width: 20%;
+        position: absolute;
+        left: 300px;
+        top: 530px;
+    }
+
+
+    .almonds{
+        width: 385px;
+        height: 560px;
+    }
+    .almonds>img {
+        width: 100%;
+    }
+    .almonds p {
+        font-size: 20px;
+        border-radius: 8px;
+        padding: 15px;
+    }
+    .almonds h6 {
+        font-size: 30px;
+    }
+    .almonds hr {
+        width: 380px;
+    }
+    .almonds li:first-child {
+        font-size: 18px;
+    }
+    .almonds li:last-child {
+        font-size:20px;
+        margin-left: -20px;
+    }
+    .almonds__text img {
+        width: 20%;
+        position: absolute;
+        left: 300px;
+        top: 530px;
+    }
+
+
+    .hazelnut{
+        width: 385px;
+        height: 560px;
+    }
+    .hazelnut>img {
+        width: 100%;
+    }
+    .hazelnut p {
+        font-size: 20px;
+        border-radius: 8px;
+        padding: 15px;
+    }
+    .hazelnut h6 {
+        font-size: 30px;
+    }
+    .hazelnut hr {
+        width: 380px;
+    }
+    .hazelnut li:first-child {
+        font-size: 18px;
+    }
+    .hazelnut li:last-child {
+        font-size:20px;
+        margin-left: -20px;
+    }
+    .hazelnut__text img {
+        width: 20%;
+        position: absolute;
+        left: 300px;
+        top: 530px;
+    }
+
+
+
+
+    .reviews {
+        background-repeat: no-repeat;
+        margin-bottom: 100px;
+    }
+    .reviews h5 {
+        font-size: 35px;
+    }
+    .reviews h2 {
+        font-size: 50px;
+    }
+    .reviews img {
+        width: 10%;
+    }
+    .reviews__text p {
+        font-size: 30px;
+    }
+    .reviews__text h4 {
+        font-size: 50px;
+    }
+    .reviews__text h6 {
+        font-size: 28px;
+    }
+    .circles {
+        margin-right: 200px;
+    }
+    .circle1 img{
+        margin: 0px 100px;
+        width: 110%;
+        padding: 0 10px;
+    }
+    .circle2 img{
+        margin: 0px 100px;
+        width: 110%;
+        padding: 0 10px;
+    }
+    .circle3 img{
+        margin: 0px 100px;
+        width: 110%;
+        padding: 0 10px;
+    }
+    .circle4 img{
+        margin: 0px 100px;
+        width: 110%;
+        padding: 0 10px;
+    }
+
+    .circle1 li:first-child {
+        font-size: 38px;
+        top: 80px;
+        left: 180px;
+    }
+    .circle1 li:last-child {
+        padding-top: 10px;
+        font-size: 36px;
+        top:110px;
+        left: 170px;
+    }
+    .circle2 li:first-child {
+        font-size: 38px;
+        top: 80px;
+        left: 200px;
+    }
+    .circle2 li:last-child {
+        padding-top: 10px;
+        font-size: 36px;
+        top:110px;
+        left: 135px;
+        width: 90%;
+    }
+    .circle3 li:first-child {
+        font-size: 38px;
+        top: 80px;
+        left: 190px;
+    }
+    .circle3 li:last-child {
+        padding-top: 10px;
+        font-size: 36px;
+        top:110px;
+        left: 135px;
+        width: 90%;
+    }
+    .circle4 li:first-child {
+        font-size: 38px;
+        top: 80px;
+        left: 190px;
+    }
+    .circle4 li:last-child {
+        padding-top: 10px;
+        font-size: 36px;
+        top:110px;
+        left: 135px;
+        width: 90%;
+    }
+
+
+
+    .offer h4 {
+        font-size: 30px;
+    }
+    .offer h2 {
+        font-size: 50px;
+    }
+
+    .tomato{
+        width: 385px;
+        height: 560px;
+    }
+    .tomato>img {
+        width: 100%;
+    }
+    .tomato p {
+        font-size: 20px;
+        border-radius: 8px;
+        padding: 15px;
+    }
+    .tomato h6 {
+        font-size: 30px;
+    }
+    .tomato hr {
+        width: 380px;
+    }
+    .tomato li:first-child {
+        font-size: 18px;
+    }
+    .tomato li:last-child {
+        font-size:20px;
+        margin-left: -20px;
+    }
+    .tomato__text img {
+        width: 20%;
+        position: absolute;
+        left: 300px;
+        top: 530px;
+    }
+
+    .almonds{
+        width: 385px;
+        height: 560px;
+    }
+    .almonds>img {
+        width: 100%;
+    }
+    .almonds p {
+        font-size: 20px;
+        border-radius: 8px;
+        padding: 15px;
+    }
+    .almonds h6 {
+        font-size: 30px;
+    }
+    .almonds hr {
+        width: 380px;
+    }
+    .almonds li:first-child {
+        font-size: 18px;
+    }
+    .almonds li:last-child {
+        font-size:20px;
+        margin-left: -20px;
+    }
+    .almonds__text img {
+        width: 20%;
+        position: absolute;
+        left: 300px;
+        top: 530px;
+    }
+
+    .corn{
+        width: 385px;
+        height: 560px;
+    }
+    .corn>img {
+        width: 100%;
+    }
+    .corn p {
+        font-size: 20px;
+        border-radius: 8px;
+        padding: 15px;
+    }
+    .corn h6 {
+        font-size: 30px;
+    }
+    .corn hr {
+        width: 380px;
+    }
+    .corn li:first-child {
+        font-size: 18px;
+    }
+    .corn li:last-child {
+        font-size:20px;
+        margin-left: -20px;
+    }
+    .corn__text img {
+        width: 20%;
+        position: absolute;
+        left: 300px;
+        top: 530px;
+    }
+    
+
+
+
+    .underPic__button button {
+        width:380px;
+    }
+    .underPic__button img {
+        width: 3%;
+        top: 6005px;
+        right:40px
+    }
+
+
+
+    .advantages {
+        margin-top: 300px;
+        margin-bottom: 160px;
+        background-size: 50%;
+    }
+    .advantages__text {
+        width: 40%;
+        margin-top: -200px;
+        height: 923px;
+        margin-right: 0px;
+    }
+    .advantages__text h4 {
+        font-size: 35px;
+    }
+    .advantages__text h2 {
+        width: 100%;
+        font-size: 50px; 
+    }
+    .advantages__text h5 {
+        font-size: 28px; 
+    }
+    .advantages__text p {
+        font-size: 24px;
+    }
+
+
+
+    .gallery {
+        padding-right: 0px;
+    }
+    .pic1 img{
+        width: 90% ;
+        margin: 0 0px;
+    }
+    .pic2 img{
+        width: 90% ;
+        margin: 0 0px;
+    }
+    .pic3 img{
+        width: 90% ;
+        margin: 0 0px;
+    }
+    .pic1 p {
+        width: 60%;
+        padding: 30px 5px;
+        font-size: 35px;
+        top: 200px;
+        left: 50px;
+    }
+    .pic2 p {
+        width: 60%;
+        padding: 30px 5px;
+        font-size: 35px;
+        top: 200px;
+        left: 50px;
+    }
+    .pic3 p {
+        width: 60%;
+        padding: 30px 5px;
+        font-size: 35px;
+        top: 200px;
+        left: 50px;
+    }
+    
+
+
+    .footer {
+        background-size: 100%;
+    }
+    .footer__upLeft {
+        padding-top: 90px;
+        font-size: 25px;
+    }
+    .footer__upRight input {
+        width: 390px;
+        height: 100px;
+        margin-right: 200px;
+        font-size: 36px;
+    }
+    .footer__upRight button {
+        width: 240px;
+        height: 100px;
+        top: -100px;
+        left: 500px;
+    }
+    .footer__upRight img {
+        width: 3%;
+        top: 8990px;
+        left: 1190px;
+    }
+
+    
+    .footer__down .block1 h3 {
+        font-size: 35px;
+    }
+    .footer__down .block1 h5 {
+        font-size: 26px;
+    }
+    .footer__down .block1 p {
+        font-size: 26px;
+    }
+    .footer__down .block2 p {
+        font-size: 26px;
+        padding-left: 100px;
+    }
+    
+    .footer__down .block3 h3 {
+        font-size: 35px;
+        font-weight: bold;
+        color: #274C5B;
+        padding-bottom: 20px;
+    }
+    .footer__down .block3 p{
+        font-size: 26px;
+        color: #525C60;
+    }
+    .block2__pic img {
+        width: 150%;
+    }
+    .block2__links {
+        display: flex;
+        width: 20%;
+       margin-left: 100px;
+    }
+    .block2__links img {
+        width: 110%;
+    }
+}
+
+
+
+
+
+
+@media (max-width:1152px){
+    .header .logo img {
+        width: 80%;
+    }
+    .nav a{
+        font-size: 20px;
+    }
+    .header .cart{
+        padding:10px;
+        border-radius: 100px ;
+        width: 220px;
+        right: 30px;
+    }
+    .header .cart span {
+        font-size: 20px;
+        padding-top: 2px;
+        margin-left: 10px;
+    }
+    .header .cart img {
+        width: 20%;
+    }
+
+
+
+    .promo {
+        background-image: url(/images/bg-promo.svg);
+        background-repeat: no-repeat;
+        background-size: 100%;
+        padding-bottom: 20px;
+    }
+    .promo__text h1 {
+        font-size: 50px;
+        padding: 50px 0;
+    }
+    .promo__text h4 {
+        font-size: 40px;
+    }
+    button  {
+        width: 280px;
+        font-size: 20px;
+        height: 100px;
+        font-size: 35px;
+        padding-right: 50px;
+    }
+    .promo__text img {
+        width: 15%;
+        left: 230px;
+        top: 35px;   
+    }
+
+
+
+    .about {
+        margin-top: -100px;
+        margin-bottom: 50px;
+    }
+    .about__pics img{
+        width: 510px;
+    }
+    .about__left h4 {
+        font-size: 40px;
+        width: 200px;
+    }
+    .about__left p {
+        font-size: 35px;
+    }
+    .about__right h4 {
+        font-size: 40px;
+        margin-left: -700px;
+        width: 200px;
+    }
+    .about__right p {
+        font-size: 35px;
+        width: 350px;
+        margin-left: -700px;
+    }
+    .about__text2 {
+        left: 1340px;
+    }
+    .icon1 img{
+        width: 30%;
+    }
+    .icon2 img{
+        width: 30%;
+    }
+    .aboutUs__pic img {
+        width: 150%;
+        
+    }
+    .aboutUs__content {
+        width: 120%;
+        padding-left: 250px;
+        padding-right: 100px;
+        
+    }
+    .aboutUs__content h4 {
+        font-size: 30px;
+    }
+    .aboutUs__content h2 {
+        font-size: 40px;
+    }
+    .aboutUs__content p {
+        font-size: 20px;
+    }
+    .icon1__text h5 {
+        font-size: 25px;
+    }
+    .aboutUs button {
+        width: 280px;
+        height: 100px;
+        font-size: 35px;
+        padding-right: 50px;
+    }
+    .aboutUs button>img  {
+        width: 20%;
+        left: 220px;
+        padding-top: 3px;
+    }
+
+
+
+
+
+    .shop {
+        padding-top: 100px;
+        padding-bottom: 100px;
+    }
+    .shop h5 {
+        font-size: 35px;
+    }
+    .shop h2 {
+        font-size: 40px;
+    }
+
+    .broccoli{
+        width: 340px;
+        height: 460px;
+    }
+    .broccoli>img {
+        width: 100%;
+    }
+    .broccoli p {
+        font-size: 20px;
+        border-radius: 8px;
+        padding: 15px;
+    }
+    .broccoli h6 {
+        font-size: 25px;
+    }
+    .broccoli hr {
+        width: 280px;
+    }
+    .broccoli li:first-child {
+        font-size: 16px;
+    }
+    .broccoli li:last-child {
+        font-size:18px;
+        margin-left: -20px;
+    }
+    .broccoli__text img {
+        width: 20%;
+        position: absolute;
+        left: 250px;
+        top: 480px;
+    }
+
+    .broccoli{
+        width: 340px;
+        height: 460px;
+    }
+    .broccoli>img {
+        width: 100%;
+    }
+    .broccoli p {
+        font-size: 20px;
+        border-radius: 8px;
+        padding: 15px;
+    }
+    .broccoli h6 {
+        font-size: 25px;
+    }
+    .broccoli hr {
+        width: 280px;
+    }
+    .broccoli li:first-child {
+        font-size: 16px;
+    }
+    .broccoli li:last-child {
+        font-size:18px;
+        margin-left: -20px;
+    }
+    .broccoli__text img {
+        width: 20%;
+        position: absolute;
+        left: 250px;
+        top: 480px;
+    }
+
+
+    .pistachio{
+        width: 340px;
+        height: 460px;
+    }
+    .pistachio>img {
+        width: 100%;
+    }
+    .pistachio p {
+        font-size: 20px;
+        border-radius: 8px;
+        padding: 15px;
+    }
+    .pistachio h6 {
+        font-size: 25px;
+    }
+    .pistachio hr {
+        width: 280px;
+    }
+    .pistachio li:first-child {
+        font-size: 16px;
+    }
+    .pistachio li:last-child {
+        font-size:18px;
+        margin-left: -20px;
+    }
+    .pistachio__text img {
+        width: 20%;
+        position: absolute;
+        left: 250px;
+        top: 480px;
+    }
+
+
+    .tomato{
+        width: 340px;
+        height: 460px;
+    }
+    .tomato>img {
+        width: 100%;
+    }
+    .tomato p {
+        font-size: 20px;
+        border-radius: 8px;
+        padding: 15px;
+    }
+    .tomato h6 {
+        font-size: 25px;
+    }
+    .tomato hr {
+        width: 280px;
+    }
+    .tomato li:first-child {
+        font-size: 16px;
+    }
+    .broccoli li:last-child {
+        font-size:18px;
+        margin-left: -20px;
+    }
+    .tomato__text img {
+        width: 20%;
+        position: absolute;
+        left: 250px;
+        top: 480px;
+    }
+
+
+    .broccoli{
+        width: 340px;
+        height: 460px;
+    }
+    .broccoli>img {
+        width: 100%;
+    }
+    .broccoli p {
+        font-size: 20px;
+        border-radius: 8px;
+        padding: 15px;
+    }
+    .broccoli h6 {
+        font-size: 25px;
+    }
+    .broccoli hr {
+        width: 280px;
+    }
+    .broccoli li:first-child {
+        font-size: 16px;
+    }
+    .broccoli li:last-child {
+        font-size:18px;
+        margin-left: -20px;
+    }
+    .broccoli__text img {
+        width: 20%;
+        position: absolute;
+        left: 250px;
+        top: 480px;
+    }
+
+
+    .hazelnut{
+        width: 340px;
+        height: 460px;
+    }
+    .hazelnut>img {
+        width: 100%;
+    }
+    .hazelnut p {
+        font-size: 20px;
+        border-radius: 8px;
+        padding: 15px;
+    }
+    .hazelnut h6 {
+        font-size: 25px;
+    }
+    .hazelnut hr {
+        width: 280px;
+    }
+    .hazelnut li:first-child {
+        font-size: 16px;
+    }
+    .hazelnut li:last-child {
+        font-size:18px;
+        margin-left: -20px;
+    }
+    .hazelnut__text img {
+        width: 20%;
+        position: absolute;
+        left: 250px;
+        top: 480px;
+    }
+
+
+
+
+    .reviews {
+        background-repeat: no-repeat;
+        margin-bottom: 100px;
+    }
+    .reviews h5 {
+        font-size: 35px;
+    }
+    .reviews h2 {
+        font-size: 50px;
+    }
+    .reviews img {
+        width: 10%;
+    }
+    .reviews__text p {
+        font-size: 30px;
+    }
+    .reviews__text h4 {
+        font-size: 50px;
+    }
+    .reviews__text h6 {
+        font-size: 28px;
+    }
+    .circles {
+        margin-right: 200px;
+    }
+    .circle1 img{
+        margin: 0px 100px;
+        width: 110%;
+        padding: 0 10px;
+    }
+    .circle2 img{
+        margin: 0px 100px;
+        width: 110%;
+        padding: 0 10px;
+    }
+    .circle3 img{
+        margin: 0px 100px;
+        width: 110%;
+        padding: 0 10px;
+    }
+    .circle4 img{
+        margin: 0px 100px;
+        width: 110%;
+        padding: 0 10px;
+    }
+
+    .circle1 li:first-child {
+        font-size: 38px;
+        top: 80px;
+        left: 180px;
+    }
+    .circle1 li:last-child {
+        padding-top: 10px;
+        font-size: 36px;
+        top:110px;
+        left: 170px;
+    }
+    .circle2 li:first-child {
+        font-size: 38px;
+        top: 80px;
+        left: 200px;
+    }
+    .circle2 li:last-child {
+        padding-top: 10px;
+        font-size: 36px;
+        top:110px;
+        left: 135px;
+        width: 90%;
+    }
+    .circle3 li:first-child {
+        font-size: 38px;
+        top: 80px;
+        left: 190px;
+    }
+    .circle3 li:last-child {
+        padding-top: 10px;
+        font-size: 36px;
+        top:110px;
+        left: 135px;
+        width: 90%;
+    }
+    .circle4 li:first-child {
+        font-size: 38px;
+        top: 80px;
+        left: 190px;
+    }
+    .circle4 li:last-child {
+        padding-top: 10px;
+        font-size: 36px;
+        top:110px;
+        left: 135px;
+        width: 90%;
+    }
+
+
+
+    .offer h4 {
+        font-size: 30px;
+    }
+    .offer h2 {
+        font-size: 50px;
+    }
+
+    .tomato{
+        width: 340px;
+        height: 460px;
+    }
+    .tomato>img {
+        width: 100%;
+    }
+    .tomato p {
+        font-size: 20px;
+        border-radius: 8px;
+        padding: 15px;
+    }
+    .tomato h6 {
+        font-size: 25px;
+    }
+    .tomato hr {
+        width: 280px;
+    }
+    .tomato li:first-child {
+        font-size: 16px;
+    }
+    .broccoli li:last-child {
+        font-size:18px;
+        margin-left: -20px;
+    }
+    .tomato__text img {
+        width: 20%;
+        position: absolute;
+        left: 250px;
+        top: 480px;
+    }
+
+    .almonds{
+        width: 340px;
+        height: 460px;
+    }
+    .almonds>img {
+        width: 100%;
+    }
+    .almonds p {
+        font-size: 20px;
+        border-radius: 8px;
+        padding: 15px;
+    }
+    .almonds h6 {
+        font-size: 25px;
+    }
+    .almonds hr {
+        width: 280px;
+    }
+    .almonds li:first-child {
+        font-size: 16px;
+    }
+    .almonds li:last-child {
+        font-size:18px;
+        margin-left: -20px;
+    }
+    .almonds__text img {
+        width: 20%;
+        position: absolute;
+        left: 250px;
+        top: 480px;
+    }
+
+    .corn{
+        width: 340px;
+        height: 460px;
+    }
+    .corn>img {
+        width: 100%;
+    }
+    .corn p {
+        font-size: 20px;
+        border-radius: 8px;
+        padding: 15px;
+    }
+    .corn h6 {
+        font-size: 25px;
+    }
+    .corn hr {
+        width: 280px;
+    }
+    .corn li:first-child {
+        font-size: 16px;
+    }
+    .corn li:last-child {
+        font-size:18px;
+        margin-left: -20px;
+    }
+    .corn__text img {
+        width: 20%;
+        position: absolute;
+        left: 250px;
+        top: 480px;
+    }
+    
+
+
+
+    .underPic__button button {
+        width:380px;
+    }
+    .underPic__button img {
+        width: 3%;
+        top: 6005px;
+        right:40px
+    }
+
+
+
+    .advantages {
+        margin-top: 300px;
+        margin-bottom: 160px;
+        background-size: 50%;
+    }
+    .advantages__text {
+        width: 40%;
+        margin-top: -200px;
+        height: 923px;
+        margin-right: 0px;
+    }
+    .advantages__text h4 {
+        font-size: 35px;
+    }
+    .advantages__text h2 {
+        width: 100%;
+        font-size: 50px; 
+    }
+    .advantages__text h5 {
+        font-size: 28px; 
+    }
+    .advantages__text p {
+        font-size: 24px;
+    }
+
+
+
+    .gallery {
+        padding-right: 0px;
+    }
+    .pic1 img{
+        width: 90% ;
+        margin: 0 0px;
+    }
+    .pic2 img{
+        width: 90% ;
+        margin: 0 0px;
+    }
+    .pic3 img{
+        width: 90% ;
+        margin: 0 0px;
+    }
+    .pic1 p {
+        width: 60%;
+        padding: 30px 5px;
+        font-size: 35px;
+        top: 200px;
+        left: 50px;
+    }
+    .pic2 p {
+        width: 60%;
+        padding: 30px 5px;
+        font-size: 35px;
+        top: 200px;
+        left: 50px;
+    }
+    .pic3 p {
+        width: 60%;
+        padding: 30px 5px;
+        font-size: 35px;
+        top: 200px;
+        left: 50px;
+    }
+    
+
+
+    .footer {
+        background-size: 100%;
+    }
+    .footer__upLeft {
+        padding-top: 90px;
+        font-size: 20px;
+    }
+    .footer__upRight input {
+        width: 390px;
+        height: 100px;
+        margin-right: 200px;
+        font-size: 36px;
+    }
+    .footer__upRight button {
+        width: 240px;
+        height: 100px;
+        top: -100px;
+        left: 490px;
+    }
+    .footer__upRight img {
+        width: 3%;
+        top: 8315px;
+        left: 1070px;
+    }
+
+    
+    .footer__down .block1 h3 {
+        font-size: 35px;
+    }
+    .footer__down .block1 h5 {
+        font-size: 26px;
+    }
+    .footer__down .block1 p {
+        font-size: 18px;
+    }
+    .footer__down .block2 p {
+        font-size: 20px;
+        padding-left: 100px;
+    }
+    
+    .footer__down .block3 h3 {
+        font-size: 30px;
+        font-weight: bold;
+        color: #274C5B;
+        padding-bottom: 20px;
+    }
+    .footer__down .block3 p{
+        font-size: 20px;
+        color: #525C60;
+    }
+    .block2__pic img {
+        width: 150%;
+    }
+    .block2__links {
+        display: flex;
+        width: 20%;
+       margin-left: 100px;
+    }
+    .block2__links img {
+        width: 110%;
+    }
+}
+
+
+
+
+@media (max-width:1024px){
+    .header .logo img {
+        width: 60%;
+    }
+    .nav a{
+        font-size:18px;
+    }
+    .header .cart{
+        padding:10px;
+        border-radius: 100px ;
+        width: 150px;
+        right: 30px;
+    }
+    .header .cart span {
+        font-size: 20px;
+        padding-top: 0px;
+        margin-left: 10px;
+    }
+    .header .cart img {
+        width: 20%;
+    }
+
+
+
+    .promo {
+        background-image: url(/images/bg-promo.svg);
+        background-repeat: no-repeat;
+        background-size: 100%;
+        padding-bottom: 20px;
+    }
+    .promo__text h1 {
+        font-size: 40px;
+        padding: 50px 0;
+    }
+    .promo__text h4 {
+        font-size: 30px;
+    }
+    button  {
+        width: 280px;
+        font-size: 20px;
+        height: 100px;
+        font-size: 35px;
+        padding-right: 50px;
+    }
+    .promo__text img {
+        width: 15%;
+        left: 230px;
+        top: 35px;   
+    }
+
+
+
+    .about {
+        margin-top: -300px;
+        margin-bottom: 50px;
+    }
+    .about__pics img{
+        width: 470px;
+    }
+    .about__left h4 {
+        font-size: 40px;
+        width: 200px;
+    }
+    .about__left p {
+        font-size: 35px;
+    }
+    .about__right h4 {
+        font-size: 40px;
+        margin-left: -800px;
+        width: 200px;
+    }
+    .about__right p {
+        font-size: 35px;
+        width: 350px;
+        margin-left: -800px;
+    }
+    .about__text2 {
+        left: 1340px;
+    }
+    .icon1 img{
+        width: 30%;
+    }
+    .icon2 img{
+        width: 30%;
+    }
+    .aboutUs__pic img {
+        width: 150%;
+        
+    }
+    .aboutUs__content {
+        width: 120%;
+        padding-left: 250px;
+        padding-right: 100px;
+        
+    }
+    .aboutUs__content h4 {
+        font-size: 30px;
+    }
+    .aboutUs__content h2 {
+        font-size: 34px;
+    }
+    .aboutUs__content p {
+        font-size: 14px;
+    }
+    .icon1__text h5 {
+        font-size: 20px;
+    }
+    .aboutUs button {
+        width: 280px;
+        height: 80px;
+        font-size: 35px;
+        padding-right: 50px;
+    }
+    .aboutUs button>img  {
+        width: 20%;
+        left: 220px;
+        padding-top: -2px;
+    }
+
+
+
+
+
+    .shop {
+        padding-top: 50px;
+        padding-bottom: 100px;
+    }
+    .shop h5 {
+        font-size: 35px;
+    }
+    .shop h2 {
+        font-size: 35px;
+    }
+
+    .broccoli{
+        width: 340px;
+        height: 460px;
+    }
+    .broccoli img {
+        width: 10%;
+    }
+    .broccoli p {
+        font-size: 20px;
+        border-radius: 8px;
+        padding: 15px;
+    }
+    .broccoli h6 {
+        font-size: 25px;
+    }
+    .broccoli hr {
+        width: 280px;
+    }
+    .broccoli li:first-child {
+        font-size: 16px;
+    }
+    .broccoli li:last-child {
+        font-size:18px;
+        margin-left: -20px;
+    }
+    .broccoli__text img {
+        width: 20%;
+        position: absolute;
+        left: 250px;
+        top: 480px;
+    }
+
+    .broccoli{
+        width: 340px;
+        height: 460px;
+    }
+    .broccoli>img {
+        width: 100%;
+    }
+    .broccoli p {
+        font-size: 20px;
+        border-radius: 8px;
+        padding: 15px;
+    }
+    .broccoli h6 {
+        font-size: 25px;
+    }
+    .broccoli hr {
+        width: 280px;
+    }
+    .broccoli li:first-child {
+        font-size: 16px;
+    }
+    .broccoli li:last-child {
+        font-size:18px;
+        margin-left: -20px;
+    }
+    .broccoli__text img {
+        width: 20%;
+        position: absolute;
+        left: 250px;
+        top: 480px;
+    }
+
+
+    .pistachio{
+        width: 340px;
+        height: 460px;
+    }
+    .pistachio>img {
+        width: 100%;
+    }
+    .pistachio p {
+        font-size: 20px;
+        border-radius: 8px;
+        padding: 15px;
+    }
+    .pistachio h6 {
+        font-size: 25px;
+    }
+    .pistachio hr {
+        width: 280px;
+    }
+    .pistachio li:first-child {
+        font-size: 16px;
+    }
+    .pistachio li:last-child {
+        font-size:18px;
+        margin-left: -20px;
+    }
+    .pistachio__text img {
+        width: 20%;
+        position: absolute;
+        left: 250px;
+        top: 480px;
+    }
+
+
+    .tomato{
+        width: 340px;
+        height: 460px;
+    }
+    .tomato>img {
+        width: 100%;
+    }
+    .tomato p {
+        font-size: 20px;
+        border-radius: 8px;
+        padding: 15px;
+    }
+    .tomato h6 {
+        font-size: 25px;
+    }
+    .tomato hr {
+        width: 280px;
+    }
+    .tomato li:first-child {
+        font-size: 16px;
+    }
+    .broccoli li:last-child {
+        font-size:18px;
+        margin-left: -20px;
+    }
+    .tomato__text img {
+        width: 20%;
+        position: absolute;
+        left: 250px;
+        top: 480px;
+    }
+
+
+    .broccoli{
+        width: 340px;
+        height: 460px;
+    }
+    .broccoli>img {
+        width: 100%;
+    }
+    .broccoli p {
+        font-size: 20px;
+        border-radius: 8px;
+        padding: 15px;
+    }
+    .broccoli h6 {
+        font-size: 25px;
+    }
+    .broccoli hr {
+        width: 280px;
+    }
+    .broccoli li:first-child {
+        font-size: 16px;
+    }
+    .broccoli li:last-child {
+        font-size:18px;
+        margin-left: -20px;
+    }
+    .broccoli__text img {
+        width: 20%;
+        position: absolute;
+        left: 250px;
+        top: 480px;
+    }
+
+
+    .hazelnut{
+        width: 340px;
+        height: 460px;
+    }
+    .hazelnut>img {
+        width: 100%;
+    }
+    .hazelnut p {
+        font-size: 20px;
+        border-radius: 8px;
+        padding: 15px;
+    }
+    .hazelnut h6 {
+        font-size: 25px;
+    }
+    .hazelnut hr {
+        width: 280px;
+    }
+    .hazelnut li:first-child {
+        font-size: 16px;
+    }
+    .hazelnut li:last-child {
+        font-size:18px;
+        margin-left: -20px;
+    }
+    .hazelnut__text img {
+        width: 20%;
+        position: absolute;
+        left: 250px;
+        top: 480px;
+    }
+
+
+
+
+    .reviews {
+        background-repeat: no-repeat;
+        margin-bottom: 100px;
+    }
+    .reviews h5 {
+        font-size: 35px;
+    }
+    .reviews h2 {
+        font-size: 50px;
+    }
+    .reviews img {
+        width: 10%;
+    }
+    .reviews__text p {
+        font-size: 30px;
+    }
+    .reviews__text h4 {
+        font-size: 50px;
+    }
+    .reviews__text h6 {
+        font-size: 28px;
+    }
+    .circles {
+        margin-right: 200px;
+    }
+    .circle1 img{
+        margin: 0px 100px;
+        width: 110%;
+        padding: 0 10px;
+    }
+    .circle2 img{
+        margin: 0px 100px;
+        width: 110%;
+        padding: 0 10px;
+    }
+    .circle3 img{
+        margin: 0px 100px;
+        width: 110%;
+        padding: 0 10px;
+    }
+    .circle4 img{
+        margin: 0px 100px;
+        width: 110%;
+        padding: 0 10px;
+    }
+
+    .circle1 li:first-child {
+        font-size: 38px;
+        top: 80px;
+        left: 180px;
+    }
+    .circle1 li:last-child {
+        padding-top: 10px;
+        font-size: 36px;
+        top:110px;
+        left: 170px;
+    }
+    .circle2 li:first-child {
+        font-size: 38px;
+        top: 80px;
+        left: 200px;
+    }
+    .circle2 li:last-child {
+        padding-top: 10px;
+        font-size: 36px;
+        top:110px;
+        left: 135px;
+        width: 90%;
+    }
+    .circle3 li:first-child {
+        font-size: 38px;
+        top: 80px;
+        left: 190px;
+    }
+    .circle3 li:last-child {
+        padding-top: 10px;
+        font-size: 36px;
+        top:110px;
+        left: 135px;
+        width: 90%;
+    }
+    .circle4 li:first-child {
+        font-size: 38px;
+        top: 80px;
+        left: 190px;
+    }
+    .circle4 li:last-child {
+        padding-top: 10px;
+        font-size: 36px;
+        top:110px;
+        left: 135px;
+        width: 90%;
+    }
+
+
+
+    .offer h4 {
+        font-size: 30px;
+    }
+    .offer h2 {
+        font-size: 40px;
+    }
+
+    .tomato{
+        width: 340px;
+        height: 460px;
+    }
+    .tomato>img {
+        width: 100%;
+    }
+    .tomato p {
+        font-size: 20px;
+        border-radius: 8px;
+        padding: 15px;
+    }
+    .tomato h6 {
+        font-size: 25px;
+    }
+    .tomato hr {
+        width: 280px;
+    }
+    .tomato li:first-child {
+        font-size: 16px;
+    }
+    .broccoli li:last-child {
+        font-size:18px;
+        margin-left: -20px;
+    }
+    .tomato__text img {
+        width: 20%;
+        position: absolute;
+        left: 250px;
+        top: 480px;
+    }
+
+    .almonds{
+        width: 340px;
+        height: 460px;
+    }
+    .almonds>img {
+        width: 100%;
+    }
+    .almonds p {
+        font-size: 20px;
+        border-radius: 8px;
+        padding: 15px;
+    }
+    .almonds h6 {
+        font-size: 25px;
+    }
+    .almonds hr {
+        width: 280px;
+    }
+    .almonds li:first-child {
+        font-size: 16px;
+    }
+    .almonds li:last-child {
+        font-size:18px;
+        margin-left: -20px;
+    }
+    .almonds__text img {
+        width: 20%;
+        position: absolute;
+        left: 250px;
+        top: 480px;
+    }
+
+    .corn{
+        width: 340px;
+        height: 460px;
+    }
+    .corn>img {
+        width: 100%;
+    }
+    .corn p {
+        font-size: 20px;
+        border-radius: 8px;
+        padding: 15px;
+    }
+    .corn h6 {
+        font-size: 25px;
+    }
+    .corn hr {
+        width: 280px;
+    }
+    .corn li:first-child {
+        font-size: 16px;
+    }
+    .corn li:last-child {
+        font-size:18px;
+        margin-left: -20px;
+    }
+    .corn__text img {
+        width: 20%;
+        position: absolute;
+        left: 250px;
+        top: 480px;
+    }
+    
+
+
+
+    .underPic__button button {
+        width:370px;
+    }
+    .underPic__button img {
+        width: 3%;
+        top: 8605px;
+        right:240px
+    }
+
+
+
+    .advantages {
+        margin-top: 300px;
+        margin-bottom: 160px;
+        background-size: 50%;
+    }
+    .advantages__text {
+        width: 50%;
+        margin-top: -200px;
+        height: 923px;
+        margin-left: -220px;
+    }
+    .advantages__text h4 {
+        font-size: 35px;
+    }
+    .advantages__text h2 {
+        width: 100%;
+        font-size: 50px; 
+    }
+    .advantages__text h5 {
+        font-size: 28px; 
+    }
+    .advantages__text p {
+        font-size: 24px;
+    }
+
+
+
+    .gallery {
+        padding-right: 0px;
+    }
+    .pic1 img{
+        width: 90% ;
+        margin: 0 0px;
+    }
+    .pic2 img{
+        width: 90% ;
+        margin: 0 0px;
+    }
+    .pic3 img{
+        width: 90% ;
+        margin: 0 0px;
+    }
+    .pic1 p {
+        width: 60%;
+        padding: 30px 5px;
+        font-size: 25px;
+        top: 150px;
+        left: 50px;
+    }
+    .pic2 p {
+        width: 60%;
+        padding: 30px 5px;
+        font-size: 25px;
+        top: 150px;
+        left: 50px;
+    }
+    .pic3 p {
+        width: 60%;
+        padding: 30px 5px;
+        font-size: 25px;
+        top: 150px;
+        left: 50px;
+    }
+    
+
+
+    .footer {
+        background-size: 100%;
+    }
+    .footer__upLeft {
+        padding-top: 90px;
+        font-size: 20px;
+    }
+    .footer__upRight input {
+        width: 280px;
+        height: 60px;
+        margin-right: 240px;
+        font-size: 26px;
+    }
+    .footer__upRight button {
+        font-size: 25px;
+        width: 200px;
+        height: 70px;
+        top: -65px;
+        left: 383px;
+    }
+    .footer__upRight img {
+        width: 3%;
+        top: 8985px;
+        left: 920px;
+    }
+
+    
+    .footer__down .block1 h3 {
+        font-size: 25px;
+    }
+    .footer__down .block1 h5 {
+        font-size: 26px;
+    }
+    .footer__down .block1 p {
+        font-size: 18px;
+    }
+    .footer__down .block2 p {
+        font-size: 20px;
+        padding-left: 80px;
+    }
+    
+    .footer__down .block3 h3 {
+        font-size: 25px;
+        font-weight: bold;
+        color: #274C5B;
+        padding-bottom: 20px;
+    }
+    .footer__down .block3 p{
+        font-size: 20px;
+        color: #525C60;
+    }
+    .block2__pic img {
+        width: 150%;
+    }
+    .block2__links {
+        display: flex;
+        width: 20%;
+       margin-left: 100px;
+    }
+    .block2__links img {
+        width: 110%;
+    }
+}
+
+
+
+
+
+
+
+@media (max-width:800px){
+    .header .logo img {
+        width: 70%;
+    }
+    .nav a {
+        display: flex;
+        flex-direction: column;
+        font-size: 25px;
+        
+    }
+
+    .header .cart{
+        padding:10px;
+        border-radius: 100px ;
+        width: 150px;
+        right: 30px;
+    }
+    .header .cart span {
+        font-size: 20px;
+        padding-top: 0px;
+        margin-left: 10px;
+    }
+    .header .cart img {
+        width: 20%;
+    }
+
+
+
+    .promo {
+        background-image: url(/images/bg-promo.svg);
+        background-repeat: no-repeat;
+        background-size: 100%;
+        padding-bottom: 20px;
+    }
+    .promo__text h1 {
+        font-size: 35px;
+        padding: 50px 0;
+    }
+    .promo__text h4 {
+        font-size: 30px;
+    }
+    button  {
+        width: 280px;
+        font-size: 20px;
+        height: 100px;
+        font-size: 35px;
+        padding-right: 50px;
+    }
+    .promo__text img {
+        width: 15%;
+        left: 230px;
+        top: 35px;   
+    }
+
+
+
+    .about {
+        margin-top: -400px;
+        margin-bottom: 50px;
+    }
+    .about__pics img{
+        width: 430px;
+        margin-bottom: 50px;
+    }
+    .about__left h4 {
+        font-size: 30px;
+        width: 200px;
+    }
+    .about__left p {
+        font-size: 25px;
+    }
+    .about__right h4 {
+        font-size: 30px;
+        margin-left: -800px;
+        width: 200px;
+    }
+    .about__right p {
+        font-size: 25px;
+        width: 159px;
+        margin-left: -800px;
+    }
+    .about__text2 {
+        left: 1340px;
+    }
+    .icon1 img{
+        width: 10%;
+    }
+    .icon2 img{
+        width: 10%;
+    }
+    .aboutUs__pic img {
+        width: 150%;
+        
+    }
+    .aboutUs__content {
+        margin-top: -80px;
+        width: 120%;
+        padding-left: 250px;
+        padding-right: 100px;
+        
+    }
+    .aboutUs__content h4 {
+        font-size: 30px;
+    }
+    .aboutUs__content h2 {
+        font-size: 34px;
+    }
+    .aboutUs__content p {
+        font-size: 14px;
+    }
+    .icon1__text h5 {
+        font-size: 20px;
+    }
+    .aboutUs button {
+        width: 260px;
+        height: 80px;
+        font-size: 25px;
+        padding-right: 50px;
+    }
+    .aboutUs button>img  {
+        width: 20%;
+        left: 190px;
+        top: 5px;
+    }
+
+
+
+
+
+    .shop {
+        padding-top: 0px;
+        padding-bottom: 100px;
+    }
+    .shop h5 {
+        font-size: 35px;
+    }
+    .shop h2 {
+        font-size: 35px;
+    }
+
+    .broccoli{
+        width: 340px;
+        height: 460px;
+    }
+    .broccoli img {
+        width: 10%;
+    }
+    .broccoli p {
+        font-size: 20px;
+        border-radius: 8px;
+        padding: 15px;
+    }
+    .broccoli h6 {
+        font-size: 25px;
+    }
+    .broccoli hr {
+        width: 280px;
+    }
+    .broccoli li:first-child {
+        font-size: 16px;
+    }
+    .broccoli li:last-child {
+        font-size:18px;
+        margin-left: -20px;
+    }
+    .broccoli__text img {
+        width: 20%;
+        position: absolute;
+        left: 250px;
+        top: 480px;
+    }
+
+    .broccoli{
+        width: 340px;
+        height: 460px;
+    }
+    .broccoli>img {
+        width: 100%;
+    }
+    .broccoli p {
+        font-size: 20px;
+        border-radius: 8px;
+        padding: 15px;
+    }
+    .broccoli h6 {
+        font-size: 25px;
+    }
+    .broccoli hr {
+        width: 280px;
+    }
+    .broccoli li:first-child {
+        font-size: 16px;
+    }
+    .broccoli li:last-child {
+        font-size:18px;
+        margin-left: -20px;
+    }
+    .broccoli__text img {
+        width: 20%;
+        position: absolute;
+        left: 250px;
+        top: 480px;
+    }
+
+
+    .pistachio{
+        width: 340px;
+        height: 460px;
+    }
+    .pistachio>img {
+        width: 100%;
+    }
+    .pistachio p {
+        font-size: 20px;
+        border-radius: 8px;
+        padding: 15px;
+    }
+    .pistachio h6 {
+        font-size: 25px;
+    }
+    .pistachio hr {
+        width: 280px;
+    }
+    .pistachio li:first-child {
+        font-size: 16px;
+    }
+    .pistachio li:last-child {
+        font-size:18px;
+        margin-left: -20px;
+    }
+    .pistachio__text img {
+        width: 20%;
+        position: absolute;
+        left: 250px;
+        top: 480px;
+    }
+
+
+    .tomato{
+        width: 340px;
+        height: 460px;
+    }
+    .tomato>img {
+        width: 100%;
+    }
+    .tomato p {
+        font-size: 20px;
+        border-radius: 8px;
+        padding: 15px;
+    }
+    .tomato h6 {
+        font-size: 25px;
+    }
+    .tomato hr {
+        width: 280px;
+    }
+    .tomato li:first-child {
+        font-size: 16px;
+    }
+    .broccoli li:last-child {
+        font-size:18px;
+        margin-left: -20px;
+    }
+    .tomato__text img {
+        width: 20%;
+        position: absolute;
+        left: 250px;
+        top: 480px;
+    }
+
+
+    .broccoli{
+        width: 340px;
+        height: 460px;
+    }
+    .broccoli>img {
+        width: 100%;
+    }
+    .broccoli p {
+        font-size: 20px;
+        border-radius: 8px;
+        padding: 15px;
+    }
+    .broccoli h6 {
+        font-size: 25px;
+    }
+    .broccoli hr {
+        width: 280px;
+    }
+    .broccoli li:first-child {
+        font-size: 16px;
+    }
+    .broccoli li:last-child {
+        font-size:18px;
+        margin-left: -20px;
+    }
+    .broccoli__text img {
+        width: 20%;
+        position: absolute;
+        left: 250px;
+        top: 480px;
+    }
+
+
+    .hazelnut{
+        width: 340px;
+        height: 460px;
+    }
+    .hazelnut>img {
+        width: 100%;
+    }
+    .hazelnut p {
+        font-size: 20px;
+        border-radius: 8px;
+        padding: 15px;
+    }
+    .hazelnut h6 {
+        font-size: 25px;
+    }
+    .hazelnut hr {
+        width: 280px;
+    }
+    .hazelnut li:first-child {
+        font-size: 16px;
+    }
+    .hazelnut li:last-child {
+        font-size:18px;
+        margin-left: -20px;
+    }
+    .hazelnut__text img {
+        width: 20%;
+        position: absolute;
+        left: 250px;
+        top: 480px;
+    }
+
+
+
+
+    .reviews {
+        background-repeat: no-repeat;
+        margin-bottom: 100px;
+    }
+    .reviews h5 {
+        font-size: 35px;
+    }
+    .reviews h2 {
+        font-size: 50px;
+    }
+    .reviews img {
+        width: 10%;
+    }
+    .reviews__text p {
+        font-size: 30px;
+    }
+    .reviews__text h4 {
+        font-size: 50px;
+    }
+    .reviews__text h6 {
+        font-size: 28px;
+    }
+    .circles {
+        margin-right: 200px;
+    }
+    .circle1 img{
+        margin: 0px 100px;
+        width: 110%;
+        padding: 0 10px;
+    }
+    .circle2 img{
+        margin: 0px 100px;
+        width: 110%;
+        padding: 0 10px;
+    }
+    .circle3 img{
+        margin: 0px 100px;
+        width: 110%;
+        padding: 0 10px;
+    }
+    .circle4 img{
+        margin: 0px 100px;
+        width: 110%;
+        padding: 0 10px;
+    }
+
+    .circle1 li:first-child {
+        font-size: 38px;
+        top: 80px;
+        left: 180px;
+    }
+    .circle1 li:last-child {
+        padding-top: 10px;
+        font-size: 36px;
+        top:110px;
+        left: 170px;
+    }
+    .circle2 li:first-child {
+        font-size: 38px;
+        top: 80px;
+        left: 200px;
+    }
+    .circle2 li:last-child {
+        padding-top: 10px;
+        font-size: 36px;
+        top:110px;
+        left: 135px;
+        width: 90%;
+    }
+    .circle3 li:first-child {
+        font-size: 38px;
+        top: 80px;
+        left: 190px;
+    }
+    .circle3 li:last-child {
+        padding-top: 10px;
+        font-size: 36px;
+        top:110px;
+        left: 135px;
+        width: 90%;
+    }
+    .circle4 li:first-child {
+        font-size: 38px;
+        top: 80px;
+        left: 190px;
+    }
+    .circle4 li:last-child {
+        padding-top: 10px;
+        font-size: 36px;
+        top:110px;
+        left: 135px;
+        width: 90%;
+    }
+
+
+
+    .offer h4 {
+        font-size: 30px;
+    }
+    .offer h2 {
+        font-size: 40px;
+    }
+
+    .tomato{
+        width: 340px;
+        height: 460px;
+    }
+    .tomato>img {
+        width: 100%;
+    }
+    .tomato p {
+        font-size: 20px;
+        border-radius: 8px;
+        padding: 15px;
+    }
+    .tomato h6 {
+        font-size: 25px;
+    }
+    .tomato hr {
+        width: 280px;
+    }
+    .tomato li:first-child {
+        font-size: 16px;
+    }
+    .broccoli li:last-child {
+        font-size:18px;
+        margin-left: -20px;
+    }
+    .tomato__text img {
+        width: 20%;
+        position: absolute;
+        left: 250px;
+        top: 480px;
+    }
+
+    .almonds{
+        width: 340px;
+        height: 460px;
+    }
+    .almonds>img {
+        width: 100%;
+    }
+    .almonds p {
+        font-size: 20px;
+        border-radius: 8px;
+        padding: 15px;
+    }
+    .almonds h6 {
+        font-size: 25px;
+    }
+    .almonds hr {
+        width: 280px;
+    }
+    .almonds li:first-child {
+        font-size: 16px;
+    }
+    .almonds li:last-child {
+        font-size:18px;
+        margin-left: -20px;
+    }
+    .almonds__text img {
+        width: 20%;
+        position: absolute;
+        left: 250px;
+        top: 480px;
+    }
+
+    .corn{
+        width: 340px;
+        height: 460px;
+    }
+    .corn>img {
+        width: 100%;
+    }
+    .corn p {
+        font-size: 20px;
+        border-radius: 8px;
+        padding: 15px;
+    }
+    .corn h6 {
+        font-size: 25px;
+    }
+    .corn hr {
+        width: 280px;
+    }
+    .corn li:first-child {
+        font-size: 16px;
+    }
+    .corn li:last-child {
+        font-size:18px;
+        margin-left: -20px;
+    }
+    .corn__text img {
+        width: 20%;
+        position: absolute;
+        left: 250px;
+        top: 480px;
+    }
+    
+
+
+
+    .underPic__button button {
+        width:370px;
+    }
+    .underPic__button img {
+        width: 3%;
+        top: 8605px;
+        right:240px
+    }
+
+
+
+    .advantages {
+        margin-top: 300px;
+        margin-bottom: 160px;
+        background-size: 50%;
+    }
+    .advantages__text {
+        width: 50%;
+        margin-top: -200px;
+        height: 923px;
+        margin-left: -220px;
+    }
+    .advantages__text h4 {
+        font-size: 35px;
+    }
+    .advantages__text h2 {
+        width: 100%;
+        font-size: 50px; 
+    }
+    .advantages__text h5 {
+        font-size: 28px; 
+    }
+    .advantages__text p {
+        font-size: 24px;
+    }
+
+
+
+    .gallery {
+        padding-right: 0px;
+    }
+    .pic1 img{
+        width: 90% ;
+        margin: 0 0px;
+    }
+    .pic2 img{
+        width: 90% ;
+        margin: 0 0px;
+    }
+    .pic3 img{
+        width: 90% ;
+        margin: 0 0px;
+    }
+    .pic1 p {
+        width: 60%;
+        padding: 30px 5px;
+        font-size: 25px;
+        top: 150px;
+        left: 50px;
+    }
+    .pic2 p {
+        width: 60%;
+        padding: 30px 5px;
+        font-size: 25px;
+        top: 150px;
+        left: 50px;
+    }
+    .pic3 p {
+        width: 60%;
+        padding: 30px 5px;
+        font-size: 25px;
+        top: 150px;
+        left: 50px;
+    }
+    
+
+
+    .footer {
+        background-size: 100%;
+    }
+    .footer__upLeft {
+        padding-top: 90px;
+        font-size: 20px;
+    }
+    .footer__upRight input {
+        width: 220px;
+        height: 60px;
+        margin-right: 240px;
+        font-size: 20px;
+    }
+    .footer__upRight button {
+        font-size: 20px;
+        width: 180px;
+        height: 70px;
+        top: -65px;
+        left: 350px;
+    }
+    .footer__upRight img {
+        width: 3%;
+        top: 8945px;
+        left: 880px;
+    }
+
+    
+    .footer__down .block1 h3 {
+        font-size: 25px;
+    }
+    .footer__down .block1 h5 {
+        font-size: 26px;
+    }
+    .footer__down .block1 p {
+        font-size: 16px;
+    }
+    .footer__down .block2 p {
+        font-size: 20px;
+        padding-left: 80px;
+    }
+    
+    .footer__down .block3 h3 {
+        font-size: 25px;
+        font-weight: bold;
+        color: #274C5B;
+        padding-bottom: 20px;
+    }
+    .footer__down .block3 p{
+        font-size: 20px;
+        color: #525C60;
+    }
+    .block2__pic img {
+        width: 150%;
+    }
+    .block2__links {
+        display: flex;
+        width: 20%;
+       margin-left: 100px;
+    }
+    .block2__links img {
+        width: 110%;
+    }
+}
+
+
+

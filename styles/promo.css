@@ -1,0 +1,49 @@
+.promo {
+    background-image: url(/images/bg-promo.svg);
+    height: 913px;
+    
+}
+.promo__text {
+    padding-top: 222px;
+    padding-left: 30px ;
+}
+.promo__text h1 {
+    font-family: 'roboto';
+    font-size: 70px;
+    font-weight: bold;
+    width: 40%;
+    padding: 30px 0;
+}
+.promo__text h4 {
+    font-family: 'yellowtail';
+    color:  #7EB693;
+    font-size: 36px;
+    font-weight: lighter;
+}
+button{
+    background-color: transparent;
+    background-repeat: repeat-y;
+    border: none;
+    color: transparent;
+    cursor: pointer;
+}
+button {
+    width: 219px;
+    height: 82px;
+    background-color: #EFD372;
+    border: 1px solid #EFD372;
+    border-radius: 16px;
+    color: #274C5B;
+    font-family: 'roboto';
+    font-size: 19px;
+    position: relative;
+}
+button:hover {
+    transition: 0.5s linear;
+    background-color: coral;
+}
+.promo__text img {
+    position: absolute;
+    left: 170px;
+    top: 24px;
+}

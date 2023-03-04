@@ -1,0 +1,32 @@
+.offer {
+    background-color: #274C5B;
+    padding: 160px 30px;
+}
+.offer h4 {
+    font-family: 'yellowtail';
+    color: #7EB693;
+    font-size: 36px;
+    font-weight: lighter;
+    padding-bottom: 15px;
+}
+.offer h2 {
+    font-family: 'roboto';
+    font-size: 45px;
+    font-weight: bold;
+    color: white;
+}
+.underPic {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 30px;
+}
+.underPic__button button {
+    position: relative;
+    width: 267px;
+}
+.underPic__button img {
+    position: absolute;
+    top: 5595px;
+    right: 35px;
+}
+

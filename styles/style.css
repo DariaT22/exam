@@ -1,0 +1,19 @@
+@import "header.css";
+@import "promo.css";
+@import "about.css";
+@import "shop.css";
+@import "reviews.css";
+@import "offer.css";
+@import "advantages.css";
+@import "gallery.css";
+@import "footer.css";
+@import "variables";
+
+
+* {
+    margin: 0;
+    padding: 0;
+}
+.body {
+    padding: 40px 30px;
+}

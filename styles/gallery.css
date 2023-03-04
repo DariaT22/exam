@@ -1,0 +1,56 @@
+.gallery {
+    padding: 140px 30px;
+    background-color: #EFF6F1;
+    display: flex;
+    justify-content: space-between;
+}
+.pic1  {
+    position: relative;
+}
+.pic1 p {
+    text-align: center;
+    padding: 35px 80px;
+    font-family: 'roboto';
+    font-size: 25px;
+    font-weight: bold;
+    color: #274C5B;
+    border-radius: 20px;
+    background-color: #ffffff;
+    position: absolute;
+    top: 242px;
+    left: 91px;
+}
+
+.pic2  {
+    position: relative;
+}
+.pic2 p {
+    text-align: center;
+    padding: 35px 80px;
+    font-family: 'roboto';
+    font-size: 25px;
+    font-weight: bold;
+    color: #274C5B;
+    border-radius: 20px;
+    background-color: #ffffff;
+    position: absolute;
+    top: 242px;
+    left: 91px;
+}
+
+.pic3  {
+    position: relative;
+}
+.pic3 p {
+    text-align: center;
+    padding: 35px 80px;
+    font-family: 'roboto';
+    font-size: 25px;
+    font-weight: bold;
+    color: #274C5B;
+    border-radius: 20px;
+    background-color: #ffffff;
+    position: absolute;
+    top: 242px;
+    left: 91px;
+}

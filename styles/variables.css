@@ -1,0 +1,11 @@
+:root { 
+    --font-family: 'roboto';
+    --font-family-italic: 'yellowtail';
+
+    --color-blue: #274C5B;
+    --color-blue2: #525C60;
+    --color-green: #7EB693;
+    --color-grey: #F9F8F8;
+    --color-grey: #B8B8B8;
+    --color-grey: #EFF6F1;
+}

@@ -1,0 +1,103 @@
+.about {
+    padding: 140px 30px;
+}
+.about__pics {
+    display: flex;
+    justify-content: space-between;
+    position: relative;
+}
+.about__left h4 {
+    font-family: 'yellowtail';
+    font-size: 36px;
+    color: white;
+    font-weight: lighter;
+}
+.about__left p {
+    font-family:'roboto';
+    font-size: 40px;
+    width: 50%;
+    color: white;
+    font-weight: lighter;
+}
+.about__text {
+    position: absolute;
+    top: 120px;
+    left: 50px
+}
+.about__text2 {
+    position: absolute;
+    top: 120px;
+    left: 800px;
+}
+
+.about__text2 h4 {
+    font-family: 'yellowtail';
+    font-size: 36px;
+    color: #7EB693;
+    font-weight: lighter;
+}
+.about__text2 p {
+    font-family:'roboto';
+    font-size: 40px;
+    width: 55%;
+}
+.aboutUs {
+    display: flex;
+    padding-top: 128px;
+    background-color:  #F9F8F8;
+    background-repeat: no-repeat;
+    height: 642px;
+}
+.icon1 {
+    display: flex;
+}
+.icon2 {
+    display: flex;
+}
+.aboutUs__content h4 {
+    font-family: 'yellowtail';
+    color: #7EB693;
+    font-size: 36px;
+}
+.aboutUs__content h2 {
+    font-family: 'roboto';
+    font-weight: bold;
+    font-size: 45px;
+    color: #274C5B;
+    padding: 30px 0;
+}
+.aboutUs__content p {
+    font-family: 'open sans';
+    font-size: 18px;
+    color: #525C60;
+    padding-bottom: 30px;
+}
+.icon1__text h5 {
+    font-family: 'roboto';
+    font-weight: lighter;
+    font-size: 25px;
+    color: #274C5B;
+    padding-bottom: 15px;
+}
+.icon1__text p {
+    font-family: 'open sans';
+    font-size: 18px;
+    color: #525C60;
+}
+.aboutUs button {
+    color: white ;
+    background-color: #274C5B;
+    width: 199px;
+    height: 82px;
+    position: relative;
+    margin-top: 30px;
+}
+.aboutUs button:hover {
+    transition: .2s linear;
+    background-color: rgb(81, 62, 98);
+}
+.aboutUs button>img {
+    position: absolute;
+    left: 150px;
+    top: 23px;
+}
